@@ -1,0 +1,51 @@
+{
+  "id": "huashu-design",
+  "requested_repository": "alchaincyf/huashu-design",
+  "repository": "alchaincyf/huashu-design",
+  "commit": "59065698ad63f87ea1532c126c87f488d4f93fd6",
+  "inert_sources": true,
+  "files": [
+    {
+      "upstream_path": "LICENSE",
+      "path": "vendor/motion-v2/huashu-design/LICENSE.txt",
+      "bytes": 1086,
+      "sha256": "6d6a2a9caf2e6d2b76974050427053b2892d8aa4c33fd168ce63a537fcee9d96",
+      "git_blob": "ed67368a2a79ed7be97b2a4852330cdac5b8b12a"
+    },
+    {
+      "upstream_path": "references/animation-best-practices.md",
+      "path": "vendor/motion-v2/huashu-design/source/references/animation-best-practices.md.source.txt",
+      "bytes": 22605,
+      "sha256": "98ce6e679b4fad129c2071b4f504b6a871b64ac2659fe86e123739963a885b10",
+      "git_blob": "1c9dbd82658c31a046816ae4535a9cb618525fc6"
+    },
+    {
+      "upstream_path": "references/camera-language.md",
+      "path": "vendor/motion-v2/huashu-design/source/references/camera-language.md.source.txt",
+      "bytes": 23221,
+      "sha256": "17d9ec457df9920953588ffdd1fdff92c3679093cebd3b022b48861105563c71",
+      "git_blob": "04e1769e6355975e87784062c59c6b554b875825"
+    },
+    {
+      "upstream_path": "references/cinematic-patterns.md",
+      "path": "vendor/motion-v2/huashu-design/source/references/cinematic-patterns.md.source.txt",
+      "bytes": 11115,
+      "sha256": "3b6f3a846b71f4ce8194286de615972797ded033b5a925ecda8a8f0c25753d15",
+      "git_blob": "1216110a7d741b309d80b9ff44182f1ee25ed840"
+    },
+    {
+      "upstream_path": "references/gsap-recipes.md",
+      "path": "vendor/motion-v2/huashu-design/source/references/gsap-recipes.md.source.txt",
+      "bytes": 35591,
+      "sha256": "374f346aeab61192f497130f933424bd3a3850e2f68e03f73cd3fa81e058a33a",
+      "git_blob": "67749c62de86b425dd9d813a260d0442b3377e61"
+    },
+    {
+      "upstream_path": "references/hyperframes-backend.md",
+      "path": "vendor/motion-v2/huashu-design/source/references/hyperframes-backend.md.source.txt",
+      "bytes": 7480,
+      "sha256": "aad0356ea5f1c98c5ad11e7ef238b8e56d357165de7117d6702a946e69d79bdc",
+      "git_blob": "39f3d8b9ba13e14713ae0089401e45cdaae07787"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+interface:
+  display_name: "HyperFrames: официальный контракт"
+  short_description: "Применяет официальный набор HyperFrames из openai/plugins как"

@@ -1,0 +1,576 @@
+{
+  "id": "reelforge",
+  "requested_repository": "gongnyang/reelforge",
+  "repository": "gongnyang/reelforge",
+  "commit": "740bf70dc1f068734e054e922c0a602e50f69ebd",
+  "inert_sources": true,
+  "files": [
+    {
+      "upstream_path": "LICENSE",
+      "path": "vendor/motion-v2/reelforge/LICENSE.txt",
+      "bytes": 10844,
+      "sha256": "71ce134df56009de5e4ee4f9e0f20a19004fefc4075e11405d8b189486912975",
+      "git_blob": "ae89e35ff4e2930cd36016c4ac7131d410690a33"
+    },
+    {
+      "upstream_path": "NOTICE",
+      "path": "vendor/motion-v2/reelforge/NOTICE.txt",
+      "bytes": 308,
+      "sha256": "ef1a597c1a15b6f137387a9d5619fa97af2b372025c9d2357faff66beb1c6faa",
+      "git_blob": "4d209e020adb6b0570f3257d3bca4cdf4261d389"
+    },
+    {
+      "upstream_path": "skills/reelforge/SKILL.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/SKILL.md.source.txt",
+      "bytes": 9599,
+      "sha256": "80518345306b4510067ba4fe7d98d20baf169a4169dcb3d9c4759ba85621981f",
+      "git_blob": "d8283bbb351bda4ae92a92196a58de5f5441d4cd"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/codex-runner.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/codex-runner.md.source.txt",
+      "bytes": 10600,
+      "sha256": "25d3f5ab90bee65b4e46ac2a8dfba797f96fe78894eb68e16b20697cb2345ffc",
+      "git_blob": "d5b93e728811bc0d6172c6292c98c328fc43f817"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/design-direction.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/design-direction.md.source.txt",
+      "bytes": 9880,
+      "sha256": "18b4847ce187cdafc6273f2eb88c419e4e03307ab758a372c6b4e3a902dfb857",
+      "git_blob": "6ed12ae84635b8f16d871ec22b6c7799daaa8c7b"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/GALLERY.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/GALLERY.md.source.txt",
+      "bytes": 3385,
+      "sha256": "779cca7262edcce84901d8af5d85df2063fd4414e8c4688c857d678599cab7b7",
+      "git_blob": "57ef4b35824b20f91217ab0d6521baec43e19b02"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/ROUTING.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/ROUTING.md.source.txt",
+      "bytes": 12943,
+      "sha256": "8a9cefa58e1ec1a12b50c0662784ba43fa0a6aff882dbef04bd297f9787d2661",
+      "git_blob": "3d6c60f07c26f8495a2aba2f3a004b02415d5738"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/atmo/glow-pulse.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/atmo/glow-pulse.html.source.txt",
+      "bytes": 7688,
+      "sha256": "07b8cd0e5cb443568f3a90b887e3981421b55c9b923910805e0f04de046b6f4c",
+      "git_blob": "2e4cd1eaf29be65821c445a5cfd20af92924fa68"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/atmo/glow-pulse.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/atmo/glow-pulse.meta.json.source.txt",
+      "bytes": 325,
+      "sha256": "1c09deb9b9bdbf6cf2a996f57d76e78f00103076e41ad750fa20acab03653132",
+      "git_blob": "d0cea65f17b2717397630c7396056c65fc1858f9"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/atmo/grain-flip.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/atmo/grain-flip.html.source.txt",
+      "bytes": 9057,
+      "sha256": "486e81d5850234e1bebb7942c8912bfd8730108f7015aec3245ad0f2ecefd8b0",
+      "git_blob": "9e3a43ba87576d127f3545e835dbca2fc8efb875"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/atmo/grain-flip.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/atmo/grain-flip.meta.json.source.txt",
+      "bytes": 457,
+      "sha256": "db3c64d0c5c71a9d4c51bae9474c5c2a3b05d880dc1e83d66a472ccb6f95fd1b",
+      "git_blob": "c7d8d2d0a5b126282ec1c5f5a7a460a27acadb8f"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/camera/eye-shift.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/camera/eye-shift.html.source.txt",
+      "bytes": 11571,
+      "sha256": "2e9756970a01232877fe96c894300d3919af5484f8fc603922a40965e42881f6",
+      "git_blob": "f14f66f314aca585af830f916f375f339d6c9117"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/camera/eye-shift.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/camera/eye-shift.meta.json.source.txt",
+      "bytes": 640,
+      "sha256": "714a9f8124af45d03b72ea2e65e8d50c71a432045f0053ade4a59b3442b6eccf",
+      "git_blob": "96bc708c91a353fb8961749c569a2cdd6f83a4c2"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/camera/multiplane-push.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/camera/multiplane-push.html.source.txt",
+      "bytes": 12316,
+      "sha256": "72c20a9030032938842dfce08ee24dfb050302d963e3494f4387e8cea1b691d5",
+      "git_blob": "fdfcf80dc9413a4992ac16638126e75a39ffb0eb"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/camera/multiplane-push.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/camera/multiplane-push.meta.json.source.txt",
+      "bytes": 511,
+      "sha256": "a47b2d483c7ba6a3dc5f514845e5b57e582cf6cd01ac03f9c2d94e850f76d5c8",
+      "git_blob": "a1e8fa41cb196aac493553b6d019f66cc97b2639"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/camera/orbit-turntable.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/camera/orbit-turntable.html.source.txt",
+      "bytes": 15411,
+      "sha256": "19ce02a5b5517d46da5d4b855a6e7d9a5aa2f47515ee18fd7abad1ab9556820d",
+      "git_blob": "a0f5b1f9f245ec0f017837a7c6e14188012933ee"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/camera/orbit-turntable.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/camera/orbit-turntable.meta.json.source.txt",
+      "bytes": 487,
+      "sha256": "8007731f3572d33f13eb3042caa14ba13daea29ca5f5c6e4fd7d1a80c3e20344",
+      "git_blob": "159ac71b5933cbf68f72864d046bb09130939109"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/camera/parallax-3plane.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/camera/parallax-3plane.html.source.txt",
+      "bytes": 12034,
+      "sha256": "566bf86db846ee8def2e39bdae72eec810002f7e4f05bd79b17f2d02d125e09d",
+      "git_blob": "6f828dafadd76aa25279e832ffa0eee5cd46227f"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/camera/parallax-3plane.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/camera/parallax-3plane.meta.json.source.txt",
+      "bytes": 475,
+      "sha256": "acabe0361c5a43ca014478bf5c9034d5734fe1ae52f4a9e982de1b9693f756bf",
+      "git_blob": "4e49d96712eef6cfe83d1cf27598383c64202268"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/data/count-up-punch.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/data/count-up-punch.html.source.txt",
+      "bytes": 5391,
+      "sha256": "8573660b87db85416fbad3ba6b1d4c1ae88f714ffb91427dbb9f6e441ad8b825",
+      "git_blob": "d1f1f968c2c54c07a442e6cd7649df9284b0d47d"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/data/count-up-punch.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/data/count-up-punch.meta.json.source.txt",
+      "bytes": 695,
+      "sha256": "1329948a484cc187b07093743cbc671ab87d58a412cc3af82506db4a4ea24f0a",
+      "git_blob": "48478163b327259854bdc2ff4ae95419bbea044b"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/data/line-chart-trace.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/data/line-chart-trace.html.source.txt",
+      "bytes": 13493,
+      "sha256": "ef735f7103b65034093ff08a0a70b8386d1a3a6f0ba4423c69f9f4b8eda45d7e",
+      "git_blob": "632b5e14cce88c26a1fc77f43b2763e81cce31e3"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/data/line-chart-trace.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/data/line-chart-trace.meta.json.source.txt",
+      "bytes": 577,
+      "sha256": "7d37898a0d721c43c487dc0dd9bd02026ca3f3f2230ba1ce887717d2c004e66d",
+      "git_blob": "7f5365c82b90c6ef570bf7fd2ba5b7f27714c52b"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/data/progress-ring.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/data/progress-ring.html.source.txt",
+      "bytes": 10869,
+      "sha256": "4fa2c5dc02e6fe7c7b5937d9884af26b4355e58379dd4107970804806d33f194",
+      "git_blob": "aefd1df19f21788e034a726e31badad2595d264a"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/data/progress-ring.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/data/progress-ring.meta.json.source.txt",
+      "bytes": 561,
+      "sha256": "49fcc2cc6cda971865f59348078cfc2d584bf376d7a33930d94342c51a16edd1",
+      "git_blob": "53cdeb664557382dcd002380cb6013a4d021b66c"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/object/blinds-stripe-triplet.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/object/blinds-stripe-triplet.html.source.txt",
+      "bytes": 11117,
+      "sha256": "1de7d185a82d1aeac6174a4e1fc2de213b0d4ca4bbb24f38dc9b71bdaf41a5a6",
+      "git_blob": "40d8c44f32a5e7a0634f0e291c38a59c45a9f5c8"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/object/blinds-stripe-triplet.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/object/blinds-stripe-triplet.meta.json.source.txt",
+      "bytes": 577,
+      "sha256": "d61dcc558fe35c1622c50002d90b336172c1172d7f2257ef2367dab8cc3e04d5",
+      "git_blob": "8a021787164f4f16b45a33a10dfb91d5fbc9f599"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/object/connector-tree-cascade.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/object/connector-tree-cascade.html.source.txt",
+      "bytes": 11190,
+      "sha256": "7475d9f32198228e44247ead9d6d03d419cb4fa632eb4b92d9c092acd36980db",
+      "git_blob": "10ab8be9d3a3a225d9ea488302e2c435f433ff21"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/object/connector-tree-cascade.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/object/connector-tree-cascade.meta.json.source.txt",
+      "bytes": 733,
+      "sha256": "fb02124915528cb470b5c32b2928e35131345980b63f0f4c94ae9919d3d5ed4a",
+      "git_blob": "51db8dc07d182af252008c3a612ff5f0400b0def"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/object/hero-overshoot-strobe.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/object/hero-overshoot-strobe.html.source.txt",
+      "bytes": 12667,
+      "sha256": "f075d8f329ac1da17fe4fe2d7dfd3568c3f1bf8920e648897982a4946a32b07b",
+      "git_blob": "e5a9173b179497f8854a5f026cf14588ea11aec0"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/object/hero-overshoot-strobe.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/object/hero-overshoot-strobe.meta.json.source.txt",
+      "bytes": 607,
+      "sha256": "e82be94672e6aa313007e83f3341efb8e14235b0d70601b5a422fcbe1b97d8c1",
+      "git_blob": "f15d8af8f7c559f500df49482ff4f30013fd82f3"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/object/trace-then-fill.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/object/trace-then-fill.html.source.txt",
+      "bytes": 11741,
+      "sha256": "a62f1adc3a6dd45e85eb33b4bcf4d33b355eea705cf23268716b889abe11acfa",
+      "git_blob": "a7f68211eadfcfe2f277bf3bd820ff04f2dd5362"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/object/trace-then-fill.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/object/trace-then-fill.meta.json.source.txt",
+      "bytes": 522,
+      "sha256": "217cd65a1951b76cf21314f4d6c6cee5350f752cb679414d6996c163dde547e8",
+      "git_blob": "8bf463e27015055ddb1b397b9e387628351adf33"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/light-flash-in.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/light-flash-in.html.source.txt",
+      "bytes": 11776,
+      "sha256": "630d7dbdf83864a2c64ae0f2edb5ec14940a59ba77f6cc2a6c320b8deab55805",
+      "git_blob": "a29b9cde116e08b6f7c5d4cde7079fd43df87d06"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/light-flash-in.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/light-flash-in.meta.json.source.txt",
+      "bytes": 493,
+      "sha256": "55f13c95ee45ca5a1fa7db91e23e2d68e9c4b52c5d340807ede748f8d059c555",
+      "git_blob": "16dc7d38f53356f55896e933b7de6ba59514ae44"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/light-flash-out.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/light-flash-out.html.source.txt",
+      "bytes": 8858,
+      "sha256": "91df513057538e896d33a2190e4aeaa4f04958101bcf6b44c2aa63e7e7314f40",
+      "git_blob": "f660a90418ea9d82e3472e9e40f55689bf669af5"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/light-flash-out.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/light-flash-out.meta.json.source.txt",
+      "bytes": 465,
+      "sha256": "160dfcd76a1bc7c8ef2166d70bf199bdea004179b20483717be8e917961a932f",
+      "git_blob": "c690b327df2a7662a299f8bf9b023d04de5d14c3"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/match-cut-in.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/match-cut-in.html.source.txt",
+      "bytes": 11960,
+      "sha256": "bceb889cff4638545b89009c2bb4ca8343464874eef79a47b25279e53256b65a",
+      "git_blob": "30e5fbb429742df29b33d17ba618af6063c2b4a9"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/match-cut-in.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/match-cut-in.meta.json.source.txt",
+      "bytes": 483,
+      "sha256": "4a92c1d8c3619cbe0393d7fe1e662cc4b02a0709ec77fda9308958a1cbca2cc7",
+      "git_blob": "16b14a9977668a2edd1c66e4f58c2fb2a88c3a8d"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/match-cut-out.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/match-cut-out.html.source.txt",
+      "bytes": 12561,
+      "sha256": "db2b1cd257d4224c68c4f28fd03799f93ed5ab13e8ea8ff25a0d076c90f9ad54",
+      "git_blob": "22b209f63d8d0fa53f5e167dd07fb9a8dfac021b"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/match-cut-out.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/match-cut-out.meta.json.source.txt",
+      "bytes": 576,
+      "sha256": "dbb585161b3e9f34fde68a1545c707d52c56fb91af04c461415534724980e943",
+      "git_blob": "bd515f572ac81c88a2895ead84b6cae6e5a64d2e"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/whip-pan-in.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/whip-pan-in.html.source.txt",
+      "bytes": 11659,
+      "sha256": "c051e8ff8adebc0957f7774a9bd7089b66e44f991c60837a3bd83f5b1570a630",
+      "git_blob": "b42c313e965859afe1baf5ffe733ee0cc143d657"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/whip-pan-in.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/whip-pan-in.meta.json.source.txt",
+      "bytes": 532,
+      "sha256": "440d98fad92f54b6af17d103a54724f19b4e9dc152092cb3757b0ecc4b382dc5",
+      "git_blob": "c257a716e4439ce2d7c01e72100e909e4e72c6ad"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/whip-pan-out.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/whip-pan-out.html.source.txt",
+      "bytes": 10704,
+      "sha256": "771467389cb380d3e414b5a5444a0738e1e1d20faa8b50e739691ccd63f46930",
+      "git_blob": "65661966f48f622c8abd4dade32b6b4729de0aee"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/whip-pan-out.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/whip-pan-out.meta.json.source.txt",
+      "bytes": 554,
+      "sha256": "127584b286eeb5caf0cf88114d2857298632816a65d84f1e6d95d6b2032189e3",
+      "git_blob": "96371b1f174ff8d11ecc3d95d7eb77b91cffe45d"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/zoom-portal-in.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/zoom-portal-in.html.source.txt",
+      "bytes": 11445,
+      "sha256": "ce418b04c416992a2b3b429a4fec39a506173beac01514b883ca733dac9942dd",
+      "git_blob": "72bb54ecc0473a6960e1852d11b45f7508e83ae5"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/zoom-portal-in.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/zoom-portal-in.meta.json.source.txt",
+      "bytes": 559,
+      "sha256": "11629c4604b7de86d22b20e8ea19f8661d422b45fd361cd6eadf8a474ee0f68d",
+      "git_blob": "e4353783eff78461361c943fb1b212716047f266"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/zoom-portal-out.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/zoom-portal-out.html.source.txt",
+      "bytes": 13318,
+      "sha256": "320482934bde4c4dc3cd8b778be3567be435e3ddda241aa3b29e00d0e40c1410",
+      "git_blob": "43f1b741f10858b2828ac63df4af903ca94f07c9"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/pairs/zoom-portal-out.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/pairs/zoom-portal-out.meta.json.source.txt",
+      "bytes": 557,
+      "sha256": "1897f5d22a3e6a04a54cfdbe9996dc2ed61e4037ba38121a19dd8565fb5575e5",
+      "git_blob": "b39fe4ce200ae4cd2d9354ecc0eeac12c2772453"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/seal/checkmark-lockup.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/seal/checkmark-lockup.html.source.txt",
+      "bytes": 10387,
+      "sha256": "05d5811d07695b5f6b87a915706a82535978b3d4bb2dc1ef6bfd7c7f4453f193",
+      "git_blob": "77da8b8646f04714a6cc91915348760f14c5397d"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/seal/checkmark-lockup.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/seal/checkmark-lockup.meta.json.source.txt",
+      "bytes": 520,
+      "sha256": "229e914ddcb5419a6cf16c222eadec8535f7e2993e196e8d6069088084327311",
+      "git_blob": "a37b80fa145afea7a658dc14810d1d9911e6170a"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/seal/rail-lockup-sweep.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/seal/rail-lockup-sweep.html.source.txt",
+      "bytes": 8315,
+      "sha256": "02b3a6a119e38e53c2408541190bd64fc44ce0f9b11c3c6d15c0ce1b0c387ec5",
+      "git_blob": "fc668894b6f13bf94c074165d41249781c921ed3"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/seal/rail-lockup-sweep.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/seal/rail-lockup-sweep.meta.json.source.txt",
+      "bytes": 585,
+      "sha256": "193d9517e21b96d215fe759fc012d4546eb6905906c5edfad991ec6927365da9",
+      "git_blob": "3a66e11d2170340d5c76ac88ce4c2e90bec99674"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/cascade-wave.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/cascade-wave.html.source.txt",
+      "bytes": 8431,
+      "sha256": "5b8937d79e2dba4ab083cbb24412c733661d3173a44bca14eaa005612d3c8684",
+      "git_blob": "31550fb4dc172ea78349e5b6192199f2e1a69ef2"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/cascade-wave.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/cascade-wave.meta.json.source.txt",
+      "bytes": 862,
+      "sha256": "64be146b1b8f1385b9bb53214479a555a02623a7a8f5bdd18a29cb977456e79a",
+      "git_blob": "df5a44e132d5b91635d628e931317f1e520b332a"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/demote-promote-arrow.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/demote-promote-arrow.html.source.txt",
+      "bytes": 9560,
+      "sha256": "1d94ec53b05992fae81bc6c56053700b8d44560272dfc90a1549104964883b9e",
+      "git_blob": "03f116a0b1f1b25054641def8d0328b09226d1bb"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/demote-promote-arrow.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/demote-promote-arrow.meta.json.source.txt",
+      "bytes": 356,
+      "sha256": "02a00c4edfa4ed8ad3e58eb68b52cc04267276d26bccb27d994e8f5f7d7a72fa",
+      "git_blob": "c2bc821c55cb835323ea11caede5309682a315e4"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/glitch-swap-punch.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/glitch-swap-punch.html.source.txt",
+      "bytes": 9910,
+      "sha256": "fe98bc18066f6fb2019eb80c830f7f9340f49942da916d89c71f5ada959b280b",
+      "git_blob": "05caaf059560a862c4f1b9fe2c7b7b69fdb19c35"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/glitch-swap-punch.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/glitch-swap-punch.meta.json.source.txt",
+      "bytes": 636,
+      "sha256": "c4be61b64c7759c9d0dd5bdb61e0958f33215c38a5d91f2396e90886ad4cd5ae",
+      "git_blob": "5971fcfa2930eff8b5ea1f71ddd49c4e8ecc56b8"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/mask-line-reveal.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/mask-line-reveal.html.source.txt",
+      "bytes": 7819,
+      "sha256": "591169d561bc4b18d410703c09d2d300781d1dce103faccba591ca17b6e3627a",
+      "git_blob": "4b499134e05de2912b5c5dd303b04810b3d3e8c6"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/mask-line-reveal.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/mask-line-reveal.meta.json.source.txt",
+      "bytes": 352,
+      "sha256": "77b3738ebe68ad1f7c6dae2d95ea637630527a425363da8d56ce56f53d0e63e9",
+      "git_blob": "90a6016a281b1ed442bfdda64f8f27675add6818"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/netflix-converge.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/netflix-converge.html.source.txt",
+      "bytes": 10257,
+      "sha256": "9bb0d826750bcadb1f1f8e3958895f0970ee2a14435ba208fb697b5e897c018e",
+      "git_blob": "b4d8aa23581be7198532839cc024acb1573b6f58"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/netflix-converge.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/netflix-converge.meta.json.source.txt",
+      "bytes": 529,
+      "sha256": "2020b957212f4886e7550add412d7255b2994e821488802b3d494f6033e812f5",
+      "git_blob": "64a1b9de512c77214543b924e15b00e6b6be2e9e"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/scale-slam-strike.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/scale-slam-strike.html.source.txt",
+      "bytes": 7844,
+      "sha256": "667730d36c64959a10ad693acc1ef41f46aacd8d4f85e0a5e8e78c16160ee249",
+      "git_blob": "3578700f085c8211550456e533adad11ce412231"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/scale-slam-strike.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/scale-slam-strike.meta.json.source.txt",
+      "bytes": 641,
+      "sha256": "ec1f197c53ea17d20800ace25941a0b7426497ca1925018e4bd0dd24c4c29c88",
+      "git_blob": "188041bb677950436d34e546ad428c821290c104"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/tracking-open.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/tracking-open.html.source.txt",
+      "bytes": 8108,
+      "sha256": "9226084a6c11098e8bb1b526084a8f82eea1d85f85acb15cad686ae2cb94f61c",
+      "git_blob": "75c3cc6ad17dee7351288075d609e8fa0d10b807"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/tracking-open.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/tracking-open.meta.json.source.txt",
+      "bytes": 536,
+      "sha256": "0b38dc8c2a4f5b31e7871bcfe8b12586b7f6210a270f2ab209a84f37e3ffa179",
+      "git_blob": "25a5ca5db457d03528c56c3f558be89afbb75672"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/typewriter-stage.html",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/typewriter-stage.html.source.txt",
+      "bytes": 11125,
+      "sha256": "691dfe6bac0331f53068dce55747425cafa67802b14aec47427eb62b70e63a1a",
+      "git_blob": "3369cb0af899256924913711e2c140a52354e382"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/fragments/typo/typewriter-stage.meta.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/fragments/typo/typewriter-stage.meta.json.source.txt",
+      "bytes": 480,
+      "sha256": "ef63607dcb052e5b99ca28375519aa0d577701e5e67415061fc85ab3a7c7a36f",
+      "git_blob": "60ba08e154fa8039048827fccf2c1d8a172303fb"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/gallery/gallery-index.json",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/gallery/gallery-index.json.source.txt",
+      "bytes": 39201,
+      "sha256": "492ecf61bcca4adafc50c0db3c87bc5e862845d65c292aa09ce7df08401a68c9",
+      "git_blob": "7247d2e5fcb849181fba921a96c1a9bd972e7340"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/00-INDEX.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/00-INDEX.md.source.txt",
+      "bytes": 8162,
+      "sha256": "6b9434acf439a98836610e873ce682b7410de46c411f6a2e6607fc6ccf52476b",
+      "git_blob": "320109afc8d48dd79dc0081bdf37693367a8e64d"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/01-anchor-transform.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/01-anchor-transform.md.source.txt",
+      "bytes": 22420,
+      "sha256": "937d77afa025b849bdb6434f1f9f5198195df7e2074d30cb0a5a8267dabf7848",
+      "git_blob": "df984f89491818909360f1e725633447561687db"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/02-easing-graph.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/02-easing-graph.md.source.txt",
+      "bytes": 21677,
+      "sha256": "a8914866c4762ebdfbdd425f092c0ca16ea231e07ee1f13d4121c7c11ee71901",
+      "git_blob": "7b8f387f780b1d30584cf88acf64ce25f505c462"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/03-camera-3d.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/03-camera-3d.md.source.txt",
+      "bytes": 23908,
+      "sha256": "51416adddf44eaa7e8510e5cfc677845f305e4434c5038afe6e24686e4351701",
+      "git_blob": "dff69da848ad163906a0ecbad51e6aeb5bb4d9eb"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/04-masks-mattes.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/04-masks-mattes.md.source.txt",
+      "bytes": 24745,
+      "sha256": "f2e65c79d1e77c0098309e68ab47bb5939a7282b9ba4e9833dd2387b724bdf92",
+      "git_blob": "c68e23e1010815708b5ff98f440a669b40bcd129"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/05-text-animator.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/05-text-animator.md.source.txt",
+      "bytes": 21498,
+      "sha256": "a0aa5fbe00ba877137505e32d4a8b83ad8ad1efefe490bc17eaa8778954ecb74",
+      "git_blob": "812ca10e0e88106dff738f8f619d9c8d8d0ed0ed"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/06-shapes-strokes.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/06-shapes-strokes.md.source.txt",
+      "bytes": 21467,
+      "sha256": "534a79fd979a176cb3826e77ef2309f3250b7117e83daebf01480ff2a472ce79",
+      "git_blob": "7c432a03baa9e93e0283500573ced1e0bd92e28f"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/07-stylize-time.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/07-stylize-time.md.source.txt",
+      "bytes": 26897,
+      "sha256": "1da4f2cb3b721fcd247f6ee2179c81d22e7ad987680f89a077604624aeb54ea9",
+      "git_blob": "28c0e31d13f26c006253033d51eeffb75c896e88"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/grammar/08-transitions-advanced.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/grammar/08-transitions-advanced.md.source.txt",
+      "bytes": 25921,
+      "sha256": "96ebcc708e0d71bb31d4b00c27c77e8edddbfc9fd0aa16439582fffb131176f5",
+      "git_blob": "e1fb01f07be22ff4c251e9fd99d34d49f4532380"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/scene-authoring.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/scene-authoring.md.source.txt",
+      "bytes": 14311,
+      "sha256": "0df66d044e8f4f19113605b0e77446b6ff396f247dd956d8977dd47634bff3ba",
+      "git_blob": "808f66705a207779ef4a9c98f36d4060908359e8"
+    },
+    {
+      "upstream_path": "skills/reelforge/references/strip-qc.md",
+      "path": "vendor/motion-v2/reelforge/source/skills/reelforge/references/strip-qc.md.source.txt",
+      "bytes": 2926,
+      "sha256": "4fd463543e293dd6f90d02ebf74c14cba1a1a4b1eda583b7c577636f87a80b00",
+      "git_blob": "3d4f8c849996e24a52fdde2334b381675a4a8d44"
+    }
+  ]
+}

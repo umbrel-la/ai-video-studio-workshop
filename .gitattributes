@@ -1,0 +1,8 @@
+# Preserve exact public upstream bytes, including on Windows with autocrlf.
+* -text
+
+# Byte-preserved upstream snapshots and local DSP.
+vendor/motion-v2/** -text
+tools/motion-sound/** -text
+*.ttf binary
+*.woff2 binary

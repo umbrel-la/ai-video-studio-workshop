@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "root_skill": "SKILL.md",
+  "entry": "START-HERE.md",
+  "routes": [
+    {
+      "id": "reelforge",
+      "skill": "skills/studio-reelforge/SKILL.md",
+      "when": "Короткий акцент, типографика или связанный переход",
+      "stage": "Монтаж: типографика, переходы, короткие акценты",
+      "output": "Сцена и параметры перехода",
+      "source_index": "vendor/motion-v2/reelforge/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-reelforge/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "tegaki",
+      "skill": "skills/studio-tegaki/SKILL.md",
+      "when": "Рукописная подпись, короткое слово",
+      "stage": "Монтаж: короткая надпись или подпись",
+      "output": "Управляемая временем надпись",
+      "source_index": "vendor/motion-v2/tegaki/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-tegaki/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "animated-diagrams",
+      "skill": "skills/studio-animated-diagrams/SKILL.md",
+      "when": "Объяснить схему, поток, последовательность",
+      "stage": "Сценарий и монтаж: объяснение процесса",
+      "output": "SVG-сцена и речевые якоря",
+      "source_index": "vendor/motion-v2/animated-diagrams/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-animated-diagrams/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "design-engineering",
+      "skill": "skills/studio-motion-sound/SKILL.md",
+      "when": "Звук к видимому действию",
+      "stage": "Монтаж: локальный sound design",
+      "output": "Cue sheet, WAV и onset-report",
+      "source_index": "vendor/motion-v2/design-engineering/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-motion-sound/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "huashu-design",
+      "skill": "skills/studio-huashu-camera/SKILL.md",
+      "when": "Приближение, проход камеры, фокус на объекте",
+      "stage": "Монтаж: камера, фокус и глубина",
+      "output": "Camera rig и кадры крайних положений",
+      "source_index": "vendor/motion-v2/huashu-design/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-huashu-camera/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "herk-edit-kit",
+      "skill": "skills/studio-herk-edit-kit/SKILL.md",
+      "when": "Карточка к фразе говорящего автора",
+      "stage": "Монтаж: смысловые акценты и библиотека карточек",
+      "output": "Card IDs и оформленные сцены",
+      "source_index": "vendor/motion-v2/herk-edit-kit/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-herk-edit-kit/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "motion-library",
+      "skill": "skills/studio-motion-library/SKILL.md",
+      "when": "Показать число, сравнение, шаги или цитату",
+      "stage": "Сценарий и монтаж: цифры, сравнение, объяснение",
+      "output": "Шаблон с проверенными данными",
+      "source_index": "vendor/motion-v2/motion-library/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-motion-library/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "saas-motion-kit",
+      "skill": "skills/studio-saas-motion/SKILL.md",
+      "when": "Спланировать отдельный проморолик продукта",
+      "stage": "Отдельный промоформат: бриф, тема, storyboard",
+      "output": "Бриф, storyboard и variation review",
+      "source_index": "vendor/motion-v2/saas-motion-kit/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-saas-motion/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "product-launch-motion",
+      "skill": "skills/studio-product-launch/SKILL.md",
+      "when": "Непрерывный морф, курсор и пружины в проморолике",
+      "stage": "Отдельный промоформат: непрерывный морф и курсор",
+      "output": "Карта состояний и курсорная хореография",
+      "source_index": "vendor/motion-v2/product-launch-motion/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-product-launch/SKILL.md и выполни его только в объёме текущего поручения"
+    },
+    {
+      "id": "hyperframes-official",
+      "skill": "skills/studio-hyperframes-official/SKILL.md",
+      "when": "Проверить HTML/timeline-контракт и команды HyperFrames",
+      "stage": "Техническая основа всех сцен и проверка",
+      "output": "Совместимый проект и фактический QA",
+      "source_index": "vendor/motion-v2/hyperframes-official/INDEX.json",
+      "read_first": [
+        "references/motion-v2-contract.md"
+      ],
+      "network_default": "no cloud processing",
+      "call": "Прочитай skills/studio-hyperframes-official/SKILL.md и выполни его только в объёме текущего поручения"
+    }
+  ]
+}

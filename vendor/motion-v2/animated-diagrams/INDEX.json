@@ -1,0 +1,205 @@
+{
+  "id": "animated-diagrams",
+  "requested_repository": "omkamal/animated-diagrams-skill",
+  "repository": "omkamal/animated-diagrams-skill",
+  "commit": "3de812d90c94baa4f9761684f36c3c322f1fb38c",
+  "inert_sources": true,
+  "files": [
+    {
+      "upstream_path": "LICENSE",
+      "path": "vendor/motion-v2/animated-diagrams/LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "git_blob": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+      "upstream_path": "NOTICE",
+      "path": "vendor/motion-v2/animated-diagrams/NOTICE.txt",
+      "bytes": 2187,
+      "sha256": "576b9f9ff46cb855708af731921f70bad60372c2ed32a1aa53192aa232e1f3e6",
+      "git_blob": "10c5c69a5924476d143112a7677caafd15fedddd"
+    },
+    {
+      "upstream_path": "SKILL.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/SKILL.md.source.txt",
+      "bytes": 16281,
+      "sha256": "cdbc0c0be9eb175b26bce6e42659a1ee39e4861b14f2425f99590ac0193560e3",
+      "git_blob": "4498997008f8042f36f7f071335f21857265d53f"
+    },
+    {
+      "upstream_path": "assets/themes/blueprint.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/blueprint.css.source.txt",
+      "bytes": 1238,
+      "sha256": "1ed8662a8cc1e87ee2500090048a6801525949fbd643067077a05bb6ac2143a9",
+      "git_blob": "1cf655d4b8c6dafa88df4ab39f21ba1713722fec"
+    },
+    {
+      "upstream_path": "assets/themes/brutalist.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/brutalist.css.source.txt",
+      "bytes": 1050,
+      "sha256": "dc9fdb434fbe442922cb031cdccb50a1c3efe6feba0a66ca46d95024d73bfcfe",
+      "git_blob": "77997f818c3c2b80b19de0e6af69860f294ba98a"
+    },
+    {
+      "upstream_path": "assets/themes/corporate.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/corporate.css.source.txt",
+      "bytes": 916,
+      "sha256": "881306271ad3fe4bbd747cc6da8c7100234bafd8a37a34ee5bfd1966c65aea74",
+      "git_blob": "3f2c2cec8192b5c11d13aa441167586dbd081116"
+    },
+    {
+      "upstream_path": "assets/themes/dark.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/dark.css.source.txt",
+      "bytes": 1026,
+      "sha256": "f5d5d3e73a5004253ffb6c3805c52aff2d297e2c4c73b05f2d3a7194d1e6e147",
+      "git_blob": "6fcccf32a494691fa47b8ca5b4c6559291dec89b"
+    },
+    {
+      "upstream_path": "assets/themes/editorial.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/editorial.css.source.txt",
+      "bytes": 937,
+      "sha256": "c3e73fc6cbf534160c4247cae509a4577a52b64ba0a20145ae927f10c68b74ae",
+      "git_blob": "98a5ab8a5258e6b79b9abcc9fb71230cda4e0af3"
+    },
+    {
+      "upstream_path": "assets/themes/glass.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/glass.css.source.txt",
+      "bytes": 1189,
+      "sha256": "66524a47e55f167016d297944fce89dde893525c1a0fa1d201fb30664ab38fbc",
+      "git_blob": "0fd711cfd7c7e17d683fb2a09e29dba4cebe2410"
+    },
+    {
+      "upstream_path": "assets/themes/lang-ar.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/lang-ar.css.source.txt",
+      "bytes": 788,
+      "sha256": "326282874f70f4c1bacd7d5c47cd1cc4f74ce3a9717c57756fb85a7f40728bdf",
+      "git_blob": "558e851513d2caf8d3692cf37809f60dccacbeeb"
+    },
+    {
+      "upstream_path": "assets/themes/light.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/light.css.source.txt",
+      "bytes": 809,
+      "sha256": "b6af6e68e013cba2d456d000cd05b73a4647f4011639a8f9d580be321980d26b",
+      "git_blob": "e45d40f6093eec9c4ca38eb5e7ded51687b87730"
+    },
+    {
+      "upstream_path": "assets/themes/mono.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/mono.css.source.txt",
+      "bytes": 1216,
+      "sha256": "656a93b0a1b55e6d059bf7d8d5a22f8ded24b71e0a8ac9e9f85c1a7bd0bd35f6",
+      "git_blob": "cae174697a34403b9cc0342d297b5adaae7331d4"
+    },
+    {
+      "upstream_path": "assets/themes/pastel.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/pastel.css.source.txt",
+      "bytes": 892,
+      "sha256": "acedef71111aae5ac5f2944c0a9d6680af2728cbea9a919a8175989b34c7891e",
+      "git_blob": "6744deb2f9a14c6f9533e32e0e96a3b8cae6690a"
+    },
+    {
+      "upstream_path": "assets/themes/sketch.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/sketch.css.source.txt",
+      "bytes": 1052,
+      "sha256": "c1427de5e9b6a2a6b2bd90923a4b000a35e16d7fd3a761c17b39aa755a2c8db3",
+      "git_blob": "393fcad9ecb76826ed303579bc30e18af7308e6b"
+    },
+    {
+      "upstream_path": "assets/themes/vivid.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/vivid.css.source.txt",
+      "bytes": 912,
+      "sha256": "aa2cea31693d4321121916082a410ede6b73c96c04a7a79712c0dfb6db96e336",
+      "git_blob": "81cc7fd4668fff68e516fa2785fb9e8169125487"
+    },
+    {
+      "upstream_path": "assets/themes/wireframe.css",
+      "path": "vendor/motion-v2/animated-diagrams/source/assets/themes/wireframe.css.source.txt",
+      "bytes": 1024,
+      "sha256": "a0ca962698e7aa4fe82928966681c81902f96eda6a35672058699633f56586bc",
+      "git_blob": "ab5f8c570fe5accb29b7dbe21520b3b029d552a9"
+    },
+    {
+      "upstream_path": "references/animation-choreography.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/animation-choreography.md.source.txt",
+      "bytes": 4004,
+      "sha256": "555440cd3f9ef441c27a57195e2736ae7d6a36d0b4253a0d78a26388b9feb006",
+      "git_blob": "5a0f47674638ca8d4fc847dbaeb7c045f367b677"
+    },
+    {
+      "upstream_path": "references/arabic-rtl.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/arabic-rtl.md.source.txt",
+      "bytes": 3284,
+      "sha256": "5e360fbb08918d0263e546961cfbdb8a9429d606424b70b8e33d8529abc760bf",
+      "git_blob": "41e4a2f277e5d9e70db4d80da7c85c333c1e42d9"
+    },
+    {
+      "upstream_path": "references/camera-large-flows.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/camera-large-flows.md.source.txt",
+      "bytes": 5205,
+      "sha256": "6a73394f52158cf2e4c016719929a2168e99c827c9fd6f5bc745934a9686ac47",
+      "git_blob": "e47ba80ae64aaebecbfb9460031dbd957c2dce1c"
+    },
+    {
+      "upstream_path": "references/code-walkthrough.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/code-walkthrough.md.source.txt",
+      "bytes": 3763,
+      "sha256": "cf270afff72015ce0d534f2abdb3eff4747d4165aa1d1642af3be1920f1c6b30",
+      "git_blob": "d6772bea9632ee6a2f720de96e97ea1330cc7ea6"
+    },
+    {
+      "upstream_path": "references/concept-illustrations.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/concept-illustrations.md.source.txt",
+      "bytes": 7122,
+      "sha256": "5c3b342c3be545e13b3ebfa827cef945d094095789eb8fbe0a4c4c3fba3b7798",
+      "git_blob": "c5483b67542a655389438585eb77566b6c10ffd4"
+    },
+    {
+      "upstream_path": "references/diagram-svg-authoring.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/diagram-svg-authoring.md.source.txt",
+      "bytes": 7905,
+      "sha256": "1a222b9febf88b31fb94e462d9f07123a10a0183a10615ebb3e9347d54aabe04",
+      "git_blob": "707e13518e2f3853dc4990fd127b635277803c67"
+    },
+    {
+      "upstream_path": "references/gsap-svg-techniques.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/gsap-svg-techniques.md.source.txt",
+      "bytes": 4551,
+      "sha256": "1877446d9976a466e612ad5b50af731d37948466393bc1600b51697e7c08bbed",
+      "git_blob": "2f97da29076c47df147b0d392eff569098612977"
+    },
+    {
+      "upstream_path": "references/hyperframes-rendering.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/hyperframes-rendering.md.source.txt",
+      "bytes": 4721,
+      "sha256": "4ac37c3d81108edc2a48ad8317e3548d7e0ce99b79d826044cedd3a20a2856f8",
+      "git_blob": "bff35394d278f7a8d92c0ca775247e4771d46d09"
+    },
+    {
+      "upstream_path": "references/output-formats.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/output-formats.md.source.txt",
+      "bytes": 3344,
+      "sha256": "81d7ba7d83e8d55b0d685a7d1556ca2feb7b8546a8315722bec719bc5f1f719e",
+      "git_blob": "aa96e4d4e06ce062b90b12ea7f51abb310bd1011"
+    },
+    {
+      "upstream_path": "references/sequence-interactions.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/sequence-interactions.md.source.txt",
+      "bytes": 3979,
+      "sha256": "7e2a72bfe5345456c2a0cdb5fcac46a3f66005de5fc7d3caac5c93c6f6a93cc9",
+      "git_blob": "a18b583d9108af9509cc373505ef04a5da13066d"
+    },
+    {
+      "upstream_path": "references/style-presets.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/style-presets.md.source.txt",
+      "bytes": 4817,
+      "sha256": "42036c2aa0dde89dfa8f4349f0a71cf29b620f0e92539ecea8a30d33680de3d5",
+      "git_blob": "48dadc0c188ab6bc47023de9a49da1b4b90ab519"
+    },
+    {
+      "upstream_path": "references/voiceover-sync.md",
+      "path": "vendor/motion-v2/animated-diagrams/source/references/voiceover-sync.md.source.txt",
+      "bytes": 4598,
+      "sha256": "6ca84f563971a22522adb75cc05b626b9b2fa2081f88be786c3d069e8ff1b021",
+      "git_blob": "6521f80e73acdce9484925c4bc9845e05e4402c3"
+    }
+  ]
+}

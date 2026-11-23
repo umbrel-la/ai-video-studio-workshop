@@ -1,0 +1,21 @@
+{
+  "name": "ai-video-studio-workshop",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Portable workshop studio: HyperFrames editing and ten curated motion adapters",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "doctor": "node scripts/setup.mjs --check",
+    "smoke": "node scripts/smoke.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "verify": "node scripts/verify-bundle.mjs && node scripts/verify-studio.mjs",
+    "catalog": "node scripts/motion-catalog.mjs",
+    "motion:setup": "node scripts/setup-motion-v2.mjs",
+    "motion:demo": "node scripts/build-motion-demo.mjs"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "canvas": {"w": 1080, "h": 1920}, "fps": 30, "duration": 8,
+  "cues": [
+    {"id":"node-one", "kind":"click", "t":0.8, "x":260, "y":600, "w":200, "h":100, "gain":-8},
+    {"id":"node-two", "kind":"click", "t":1.6, "x":780, "y":600, "w":200, "h":100, "gain":-8},
+    {"id":"result", "kind":"land", "t":3.8, "x":540, "y":1000, "w":620, "h":200, "gain":-10}
+  ]
+}

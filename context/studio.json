@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "repository": "https://github.com/umbrel-la/ai-video-studio-workshop",
+  "base_repository": "https://github.com/umbrel-la/ai-video-editing-skills",
+  "root_skill": "SKILL.md",
+  "start": "START-HERE.md",
+  "routes": "context/skill-routing-v2.json",
+  "sources": "context/motion-sources.json",
+  "api_map": "references/api-map-v2.md",
+  "base_skills": 10,
+  "motion_adapters": 10,
+  "entry_skills": 1,
+  "catalog_recipes": 569,
+  "default_project": null,
+  "account_targets": [],
+  "owner_profile": null,
+  "history_imported": false
+}

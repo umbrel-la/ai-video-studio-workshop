@@ -1,0 +1,3 @@
+interface:
+  display_name: "Design Engineering: звук по движению"
+  short_description: "Проектирует локальный звуковой cue sheet и синтезирует эффект"

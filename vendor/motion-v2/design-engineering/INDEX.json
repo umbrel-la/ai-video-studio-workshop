@@ -1,0 +1,141 @@
+{
+  "id": "design-engineering",
+  "requested_repository": "AgentsORG/design-engineering",
+  "repository": "AgentsORG/design-engineering",
+  "commit": "a79af5c5161dfa36a5cf2ab6423528936bc76df3",
+  "inert_sources": true,
+  "files": [
+    {
+      "upstream_path": "LICENSE",
+      "path": "vendor/motion-v2/design-engineering/LICENSE.txt",
+      "bytes": 1066,
+      "sha256": "48ba18ffb6afcbb6d967c2c6d497b9689b77be39278fc436064dba2b0177bc63",
+      "git_blob": "66e42ab25b08f884c71ded92a72a437498fc5fdc"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/MOC-sound.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/MOC-sound.md.source.txt",
+      "bytes": 5243,
+      "sha256": "a04ccc2c772b6148a0775ee6bf03c9f577fc5adeac92ea3acd2f897f9b40ecfd",
+      "git_blob": "8d574bf8c457f3139f982e1b0e4b5374dd1397c0"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/designed-sfx-anatomy.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/designed-sfx-anatomy.md.source.txt",
+      "bytes": 6723,
+      "sha256": "75e98e542a62bec4f30e6a80c29e1b04a978fa19e92bab074d13541b01dffd38",
+      "git_blob": "0f4e192a4b72be809027c66078261505e2d0fb25"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/earshot-reconciliation.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/earshot-reconciliation.md.source.txt",
+      "bytes": 5575,
+      "sha256": "0b3ef3f42d0a619f059d87937dfcfd1162cc5ae050ff6b0b38c1cd67d772b419",
+      "git_blob": "7768bbaf8faa496d6af6ac0ba75facf2d4c49465"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/haptic-feedback.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/haptic-feedback.md.source.txt",
+      "bytes": 4545,
+      "sha256": "d3b0aac84f1c09c4220614b5d5dc50c2fc6a1cff7ddc19bdab18581dd2de9708",
+      "git_blob": "174bf07b8ec25c8ed61efb07f726e1ec3fbb71a8"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/launch-video-music.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/launch-video-music.md.source.txt",
+      "bytes": 12476,
+      "sha256": "beb0bce22fdf83344adcf7d48d7290bc2acb23da81b03f2127cf448111fc4182",
+      "git_blob": "e448aea517a84e3d855b43c9c9b878e629f5b1c0"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/launch-video-sound.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/launch-video-sound.md.source.txt",
+      "bytes": 12340,
+      "sha256": "b64129baacc685af595e45b9f8a211020aaa7437df0d260c6655d65cd23a016c",
+      "git_blob": "bde2068052dfbf31351702b047838fd43bbcff17"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-decision-framework.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-decision-framework.md.source.txt",
+      "bytes": 5625,
+      "sha256": "737a0d6fe428f5705d5428f19b689b8d2532a2dd23a94c75a252eb3ebef42140",
+      "git_blob": "270a943094a6e36936645c3a5f321cfc2df61f4d"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-from-motion.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-from-motion.md.source.txt",
+      "bytes": 12697,
+      "sha256": "f2368dccd2e74c6124b0061c565b2cd5c3e2e035c8dc638c51fffeea61a15b6e",
+      "git_blob": "ea5f590bde516f65de215995cd092a0a648c4b1a"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-generation-elevenlabs.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-generation-elevenlabs.md.source.txt",
+      "bytes": 6476,
+      "sha256": "a236da8273f649c8af3fd657ed5c997c11f84fb912ef002257fcf3fcbb123ed7",
+      "git_blob": "018d10a36139476bb6d5f110fa4617e6cfec1f8f"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-generation-open-source.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-generation-open-source.md.source.txt",
+      "bytes": 6468,
+      "sha256": "0382ddef712a44f30069a28856786b83b03a2d231d33ef2de8b3917001b3a967",
+      "git_blob": "4b0ee80b6b41b9c6ea71600b56bf33742d1ccb2d"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-licensing.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-licensing.md.source.txt",
+      "bytes": 5213,
+      "sha256": "3b6fa21fc30d4a3db340d0c5f18af096267e34e3b246de0518c551bb8452bf67",
+      "git_blob": "89ba6ad2b63849bcb9bb4fe31610a915376b278e"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-motion-sync.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-motion-sync.md.source.txt",
+      "bytes": 9472,
+      "sha256": "b6df42e439d3d984d623bf67f030ebf710af4b2709d0e908ff036197fa888224",
+      "git_blob": "ff2c23406e874226ad464047f1c8fb970d385ff2"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-palette.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-palette.md.source.txt",
+      "bytes": 6135,
+      "sha256": "cd1c31fbfe9da62f120fced853a237c2d7133abd07e9a0c1452a2995dea6e04a",
+      "git_blob": "e1e7170de5fa67c7a847d1abca55d64c489bcbc9"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-playback-web.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-playback-web.md.source.txt",
+      "bytes": 6346,
+      "sha256": "de4bd703e28a1070f6ca9d372346eaedfa45314c9111bf41ae5a5dcfb1c53770",
+      "git_blob": "132d2519e9bb24055f13ef523542a3eccc920c5a"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/sound-spec.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/sound-spec.md.source.txt",
+      "bytes": 5488,
+      "sha256": "5d4399f204602e32dc81ff039ba7689c50eb7bb1e2dbc283b56fed61c3ffe1c0",
+      "git_blob": "f4dd3fd669fac3305042b29e2ad97007aa07c45e"
+    },
+    {
+      "upstream_path": "skills/design-engineering/references/sound/web-haptics-reconciliation.md",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/references/sound/web-haptics-reconciliation.md.source.txt",
+      "bytes": 3550,
+      "sha256": "799cb4077027b92493045e15f2bec40c2fe56c39dc187176b505af52f3e8ff19",
+      "git_blob": "46a49eb6aba3b24db09d52494ad83d94664b66cf"
+    },
+    {
+      "upstream_path": "skills/design-engineering/scripts/sound-sheet.mjs",
+      "path": "vendor/motion-v2/design-engineering/source/skills/design-engineering/scripts/sound-sheet.mjs.source.txt",
+      "bytes": 33229,
+      "sha256": "51620de397536a121f8a42001241d8c3e94ac2c59bd7ca18f0d57b2083980a9e",
+      "git_blob": "42f4533e17a66e814e8bfddfed66c069018680a5"
+    }
+  ],
+  "active_helper": {
+    "path": "tools/motion-sound/sound-sheet.mjs",
+    "sha256": "51620de397536a121f8a42001241d8c3e94ac2c59bd7ca18f0d57b2083980a9e",
+    "upstream_path": "skills/design-engineering/scripts/sound-sheet.mjs",
+    "git_blob": "42f4533e17a66e814e8bfddfed66c069018680a5"
+  }
+}

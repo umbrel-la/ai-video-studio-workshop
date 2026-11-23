@@ -1,0 +1,75 @@
+{
+  "scenes": [
+    [
+      "reelforge",
+      "ReelForge",
+      "Акцент на смысле",
+      "<div class=\"hero\"><span class=\"small\">ОДНА СЦЕНА</span><br><b id=\"word\">ОДНА ИДЕЯ</b><div id=\"line\" class=\"line\"></div></div>",
+      "tl.fromTo('#word',{y:40,opacity:0},{y:0,opacity:1,duration:.5},.25).fromTo('#line',{scaleX:0},{scaleX:1,duration:.45,transformOrigin:'left'},.8);"
+    ],
+    [
+      "tegaki",
+      "Tegaki",
+      "Рукописный акцент",
+      "<div id=\"ink\" class=\"ink\"></div><p class=\"caption\">Короткая подпись, управляемая временем</p>",
+      "const ink=new StudioTegaki.TegakiEngine(document.querySelector('#ink'),{text:'Idea',font:StudioTegaki.caveat,fontSize:112,color:'#b8eadc',time:{mode:'controlled',value:0}}); document.querySelectorAll('#ink [data-tegaki=sentinel], #ink [data-tegaki=overlay], #ink [data-tegaki=canvas-fallback]').forEach(el=>el.setAttribute('data-layout-ignore','')); const proxy={t:0};tl.fromTo(proxy,{t:0},{t:4,duration:2.4,ease:'none',onUpdate:()=>ink.update({time:{mode:'controlled',value:proxy.t}})},.15);"
+    ],
+    [
+      "animated-diagrams",
+      "Animated Diagrams",
+      "Понятная последовательность",
+      "<svg class=\"graph\" viewBox=\"0 0 420 300\"><path id=\"edge\" d=\"M80 95 H340 V225 H210\" fill=\"none\" stroke=\"#b8eadc\" stroke-width=\"5\"/><g id=\"nodes\"><rect x=\"10\" y=\"50\" width=\"140\" height=\"90\" rx=\"12\"/><rect x=\"270\" y=\"50\" width=\"140\" height=\"90\" rx=\"12\"/><rect x=\"140\" y=\"180\" width=\"140\" height=\"90\" rx=\"12\"/></g><g fill=\"#15273c\" font-size=\"22\" text-anchor=\"middle\"><text x=\"80\" y=\"105\">Задача</text><text x=\"340\" y=\"105\">Действие</text><text x=\"210\" y=\"235\">Проверка</text></g></svg>",
+      "tl.fromTo('#nodes rect',{opacity:0,scale:.9,transformOrigin:'center'},{opacity:1,scale:1,stagger:.22,duration:.3},.2).fromTo('#edge',{strokeDasharray:520,strokeDashoffset:520},{strokeDashoffset:0,duration:1.3,ease:'none'},.5);"
+    ],
+    [
+      "design-engineering",
+      "Design Engineering",
+      "Звук следует движению",
+      "<div class=\"sound\"><div id=\"pulse\" class=\"pulse\"></div><span>КОНТАКТ → ЗВУК</span></div><p class=\"caption\">Локальный синтез. Без загрузки записи.</p>",
+      "tl.fromTo('#pulse',{scale:.1,opacity:0},{scale:1,opacity:1,duration:.5},.3).to('#pulse',{scale:1.12,duration:.12},.8).to('#pulse',{scale:1,duration:.2},.92);"
+    ],
+    [
+      "huashu-design",
+      "Huashu Design",
+      "Камера направляет внимание",
+      "<div class=\"viewport\"><div id=\"camera\"><p class=\"tiny\">ИЛЛЮСТРАЦИЯ</p><h2>Важная строка</h2><p>Сохраняем начало и конец текста.</p><div class=\"focus-line\"></div></div></div>",
+      "tl.fromTo('#camera',{scale:1,x:0},{scale:1.12,x:-8,duration:2.4,ease:'none'},.2);"
+    ],
+    [
+      "herk-edit-kit",
+      "Herk Edit Kit",
+      "Карточка добавляет смысл",
+      "<div class=\"card\" id=\"card\"><span class=\"small\">ПРИЁМ</span><h2>Покажи результат</h2><p>Затем объясни, как его проверить.</p></div>",
+      "tl.fromTo('#card',{y:65,rotation:-3,opacity:0},{y:0,rotation:0,opacity:1,duration:.65,ease:'power3.out'},.2);"
+    ],
+    [
+      "motion-library",
+      "Motion Library",
+      "Данные с понятным источником",
+      "<div class=\"bars\"><div><i id=\"bar-a\"></i><span>30</span></div><div><i id=\"bar-b\"></i><span>70</span></div></div><p class=\"caption\">Условные значения технического примера</p>",
+      "tl.fromTo('#bar-a',{scaleY:0},{scaleY:1,transformOrigin:'bottom',duration:1},.2).fromTo('#bar-b',{scaleY:0},{scaleY:1,transformOrigin:'bottom',duration:1},.45);"
+    ],
+    [
+      "saas-motion-kit",
+      "SaaS Motion Kit",
+      "Каждой сцене — своя задача",
+      "<div class=\"tiles\"><div id=\"tile-a\">ЗАДАЧА</div><div id=\"tile-b\">МЕХАНИЗМ</div><div id=\"tile-c\">РЕЗУЛЬТАТ</div></div>",
+      "tl.fromTo('#tile-a',{x:-70,opacity:0},{x:0,opacity:1,duration:.4},.2).fromTo('#tile-b',{y:45,opacity:0},{y:0,opacity:1,duration:.4},.65).fromTo('#tile-c',{scale:.85,opacity:0},{scale:1,opacity:1,duration:.4},1.1);"
+    ],
+    [
+      "product-launch-motion",
+      "Product Launch Motion",
+      "Непрерывный объект",
+      "<div id=\"morph\" class=\"morph\"><span>ИДЕЯ</span></div><div id=\"cursor\" class=\"cursor\">↖</div>",
+      "tl.fromTo('#morph',{scaleX:.65,scaleY:.65,borderRadius:'80px'},{scaleX:1,scaleY:1,borderRadius:'18px',duration:1,ease:'power3.out'},.7).fromTo('#cursor',{x:70,y:80},{x:-10,y:-10,duration:.65},.1).to('#cursor',{scale:.8,duration:.1},.65).to('#cursor',{scale:1,duration:.1},.75);"
+    ],
+    [
+      "hyperframes-official",
+      "HyperFrames",
+      "10 источников. Одна студия.",
+      "<div class=\"final\"><strong>1.0</strong><p>Сценарий → монтаж → проверка</p><span>Редактируемый HTML + локальный рендер</span></div>",
+      "tl.fromTo('.final',{y:30,opacity:0},{y:0,opacity:1,duration:.7},.2);"
+    ]
+  ],
+  "css": "@font-face{font-family:StudioSans;src:url('assets/NotoSans.ttf')}@font-face{font-family:Inter;src:url('assets/NotoSans.ttf')}*{box-sizing:border-box}#root{position:absolute;inset:0;width:540px;height:960px;background:#112139;color:#f5f3ed;font-family:StudioSans,Arial,sans-serif;overflow:hidden}.eyebrow{position:absolute;left:42px;top:98px;font-size:16px;color:#b8eadc;letter-spacing:2px}.heading{position:absolute;left:42px;top:154px;width:456px;font-size:34px;line-height:1.2;margin:0}.source{position:absolute;left:42px;top:800px;width:456px;font-size:18px;color:#a9bdd1}.tag{position:absolute;left:42px;top:860px;font-size:15px;color:#a9bdd1}.stage{position:absolute;left:42px;top:310px;width:456px;height:420px}.hero{padding-top:60px;font-size:42px}.small{font-size:16px;color:#4b6b70;letter-spacing:1px}.hero .small{color:#9fb5ca}.line{height:10px;background:#b8eadc;width:365px;margin-top:18px}.ink{position:absolute;left:24px;top:52px;width:408px;height:170px;font-size:112px;color:#b8eadc}.caption{position:absolute;left:12px;top:310px;width:432px;font-size:19px;line-height:1.4;color:#a9bdd1;text-align:center}.graph{width:100%;height:330px}.graph rect{fill:#e9eee5}.sound{padding-top:30px;text-align:center;font-size:23px}.pulse{width:150px;height:150px;background:#b8eadc;border-radius:50%;margin:0 auto 28px}.viewport{margin-top:35px;height:240px;overflow:hidden;background:#edf1e8;border-radius:16px;color:#15273c;padding:26px}#camera{transform-origin:20% 50%}.tiny{font-size:15px;color:#4b6b70}h2{font-size:29px;line-height:1.2;margin:18px 0}p{font-size:21px;line-height:1.4}.focus-line{height:7px;width:220px;background:#559e91}.card{background:#eeeade;color:#15273c;border-radius:20px;padding:34px;margin-top:30px;height:280px;box-shadow:8px 8px 0 #487c7c}.bars{display:flex;gap:50px;justify-content:center;align-items:flex-end;height:280px}.bars>div{height:270px;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:10px;font-size:28px}.bars i{display:block;width:100px;background:#b8eadc;border-radius:6px 6px 0 0}#bar-a{height:95px}#bar-b{height:220px}.tiles{padding-top:5px}.tiles>div{padding:22px;background:#e8eee4;color:#15273c;margin:12px;font-size:25px;border-radius:12px}#tile-b{background:#b8eadc}#tile-c{background:#d7c4a4}.morph{position:absolute;left:48px;top:75px;width:360px;height:220px;background:#b8eadc;color:#15273c;display:flex;align-items:center;justify-content:center;font-size:36px;font-weight:700}.cursor{position:absolute;left:240px;top:170px;font-size:70px;color:#f8f6f0;text-shadow:2px 2px #15273c}.final{text-align:center;padding-top:5px}.final strong{font-size:142px;color:#b8eadc}.final p{font-size:25px}.final span{font-size:17px;color:#a9bdd1}"
+}

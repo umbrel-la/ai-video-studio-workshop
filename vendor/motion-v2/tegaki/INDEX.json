@@ -1,0 +1,51 @@
+{
+  "id": "tegaki",
+  "requested_repository": "gkurt/tegaki",
+  "repository": "gkurt/tegaki",
+  "commit": "bf18556996d9683326e8f2130bd50e7632e9f187",
+  "inert_sources": true,
+  "files": [
+    {
+      "upstream_path": "LICENSE",
+      "path": "vendor/motion-v2/tegaki/LICENSE.txt",
+      "bytes": 1068,
+      "sha256": "7cc3c8206a13637fe1e233fb7e949ad7293aa05723eb6c926261d07e89ef27d4",
+      "git_blob": "03bd1968c2df6565788dc30370df1446760c187d"
+    },
+    {
+      "upstream_path": "README.md",
+      "path": "vendor/motion-v2/tegaki/source/README.md.source.txt",
+      "bytes": 4707,
+      "sha256": "355685e50355de10f5d4e54010c3a7345cbebc6016a429a4035e89a0ae5852d5",
+      "git_blob": "2066dffbce35a3d0f3febc54acddd85cdabd060e"
+    },
+    {
+      "upstream_path": "examples/vanilla/src/main.ts",
+      "path": "vendor/motion-v2/tegaki/source/examples/vanilla/src/main.ts.source.txt",
+      "bytes": 716,
+      "sha256": "883159a271f7e3724baac71c2e84cc47878f4aab6d0cda4f0e66a60ef0b94659",
+      "git_blob": "ccc9b7efc9d9abb29ffc6a7d8afe63630880b16a"
+    },
+    {
+      "upstream_path": "packages/renderer/src/core/engine.ts",
+      "path": "vendor/motion-v2/tegaki/source/packages/renderer/src/core/engine.ts.source.txt",
+      "bytes": 107669,
+      "sha256": "b450108f952fecf117206b9a6f662e9c6ede3773f49fa3b91a463313dfd8f6a9",
+      "git_blob": "af2665a92c9c472c4f0dcfea2ab911824c43d369"
+    },
+    {
+      "upstream_path": "packages/renderer/src/core/types.ts",
+      "path": "vendor/motion-v2/tegaki/source/packages/renderer/src/core/types.ts.source.txt",
+      "bytes": 26060,
+      "sha256": "f845ad46100062692422471301cd12df1764f22494bd8c8d199c7e2b0f4ab270",
+      "git_blob": "ff2dc72a9bc21dafc3272de9fb076dfd0bc65d01"
+    },
+    {
+      "upstream_path": "packages/renderer/src/types.ts",
+      "path": "vendor/motion-v2/tegaki/source/packages/renderer/src/types.ts.source.txt",
+      "bytes": 7383,
+      "sha256": "068d7b59304eb888c17732e80e597857603a56ef9cee0f4c438f63df0c66243a",
+      "git_blob": "9c3232ccf712ac95dea4e4ae46b1276b7135f7af"
+    }
+  ]
+}

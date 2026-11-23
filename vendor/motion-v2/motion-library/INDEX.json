@@ -1,0 +1,1549 @@
+{
+  "id": "motion-library",
+  "requested_repository": "nutllwhy/hyperframes-motion-library",
+  "repository": "nutllwhy/hyperframes-motion-library",
+  "commit": "98c40ca18f23d7dc021a5d84308ab10599482cff",
+  "inert_sources": true,
+  "files": [
+    {
+      "upstream_path": "AGENT_GUIDE.md",
+      "path": "vendor/motion-v2/motion-library/source/AGENT_GUIDE.md.source.txt",
+      "bytes": 5347,
+      "sha256": "9db01cce496da871e31e86c8edc700cd1c4d2cadad20817add39ffdba2a7eb50",
+      "git_blob": "e04bea2836be6c37a268303e20f52aa55db4e767"
+    },
+    {
+      "upstream_path": "LICENSE",
+      "path": "vendor/motion-v2/motion-library/LICENSE.txt",
+      "bytes": 1077,
+      "sha256": "9f0d130ccde7ddc020a340dc5ca56858c37c320f4f290704787c46e1da6147ec",
+      "git_blob": "db36fba65a1c3af6de5e0bf9d207d1d0cc3b8535"
+    },
+    {
+      "upstream_path": "SKILL.md",
+      "path": "vendor/motion-v2/motion-library/source/SKILL.md.source.txt",
+      "bytes": 2769,
+      "sha256": "a03dc47e61e09954f988615eb24a57018e4631e4d2e0ce804dda70a8b4682595",
+      "git_blob": "321a897f4e87796fd8e29c64602fc23810553f44"
+    },
+    {
+      "upstream_path": "SYSTEM.md",
+      "path": "vendor/motion-v2/motion-library/source/SYSTEM.md.source.txt",
+      "bytes": 5982,
+      "sha256": "b14121fceca779380d921821b6a033cf74185f0989578af188a39d85c808d83d",
+      "git_blob": "371e1f3ec69e5ffddb1afd6b1eab72d716a3560d"
+    },
+    {
+      "upstream_path": "catalog.json",
+      "path": "vendor/motion-v2/motion-library/source/catalog.json.source.txt",
+      "bytes": 43945,
+      "sha256": "cb1516e9fdbc7f305c52435dc2f4a63e08d8a8de1338744f1db0937123198150",
+      "git_blob": "600277fa6196441f38ff6d4854887d0cc889dbe9"
+    },
+    {
+      "upstream_path": "director-rules.json",
+      "path": "vendor/motion-v2/motion-library/source/director-rules.json.source.txt",
+      "bytes": 2033,
+      "sha256": "bbf662fdcce86256c8041eb4d37961b0d05c404d4a3148f40b837302a3f94b3d",
+      "git_blob": "a4ab21a0dc9c9f65ddf9b3beb3949f2c04e56c68"
+    },
+    {
+      "upstream_path": "examples/motion-plan.example.json",
+      "path": "vendor/motion-v2/motion-library/source/examples/motion-plan.example.json.source.txt",
+      "bytes": 2052,
+      "sha256": "9f799704db5a70bf5d6f93438044acd7b4b839c6374123111c215ccf442bafc0",
+      "git_blob": "2dd289a27839444dccd7bd2340bbe07826c0c4f1"
+    },
+    {
+      "upstream_path": "motion-plan.schema.json",
+      "path": "vendor/motion-v2/motion-library/source/motion-plan.schema.json.source.txt",
+      "bytes": 4082,
+      "sha256": "0eb59b6ce8a6dd245baa91089624cbc46d346ab895ffc3363ce7bd13f0f090bf",
+      "git_blob": "73780d11c6c2b511b7f7a22a2b77c628a9eba0b4"
+    },
+    {
+      "upstream_path": "styles/README.md",
+      "path": "vendor/motion-v2/motion-library/source/styles/README.md.source.txt",
+      "bytes": 3373,
+      "sha256": "7f4038106aa03a08de7c3135bfaf57c2a0f9833e95d75f54f264da749eb515be",
+      "git_blob": "9089f5254d2fdf67b6d2ff6ef29aeacddcd9d6ea"
+    },
+    {
+      "upstream_path": "styles/catalog.json",
+      "path": "vendor/motion-v2/motion-library/source/styles/catalog.json.source.txt",
+      "bytes": 3844,
+      "sha256": "0ae2263fb3f47741d82b8f3b65b4ffb387184eb9a315c4760b488b8d4bb8d6cb",
+      "git_blob": "ff9104e02d5dc708d3a27bdf9bd327efabf4a0bc"
+    },
+    {
+      "upstream_path": "styles/runtime.css",
+      "path": "vendor/motion-v2/motion-library/source/styles/runtime.css.source.txt",
+      "bytes": 8532,
+      "sha256": "f4cc2d13a9dc5ff10efcde85bbe43bb27fbf9f9a7cf79c22a43d50dcad1a5728",
+      "git_blob": "d3afd3d3e1ac7e482004fe971ade4a94b5fa906a"
+    },
+    {
+      "upstream_path": "styles/runtime.js",
+      "path": "vendor/motion-v2/motion-library/source/styles/runtime.js.source.txt",
+      "bytes": 6401,
+      "sha256": "0461502f4c06944f8824295cbed9c03134c7bbc9a552fd87ae70f96d4d2e08b6",
+      "git_blob": "4b4ef77b243ab717d92910976605bef8cb617863"
+    },
+    {
+      "upstream_path": "templates/bar-chart-grow/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/bar-chart-grow/design.md.source.txt",
+      "bytes": 2463,
+      "sha256": "4106bddd63b828a7277dcdcbbe80f5bb2a937d37caf4708a2c15adf6b9a8e884",
+      "git_blob": "6b046b9ad23984d241ad839a55af52b0df50805d"
+    },
+    {
+      "upstream_path": "templates/bar-chart-grow/hyperframes.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/bar-chart-grow/hyperframes.json.source.txt",
+      "bytes": 278,
+      "sha256": "60430047b7e49e9d03fab28f90dc75da3a0fc79900354582df181d7d2efc1509",
+      "git_blob": "5fb1d6d872f5ecb406008695d86ae69f4216b465"
+    },
+    {
+      "upstream_path": "templates/bar-chart-grow/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/bar-chart-grow/index.html.source.txt",
+      "bytes": 28652,
+      "sha256": "e0d891e17a03fe282b29856fe70f5f603048bf9db873df57e49e9e32e945adf8",
+      "git_blob": "dc40fcd0fe4d19fc51a531d30cf7a30d47429c2e"
+    },
+    {
+      "upstream_path": "templates/bar-chart-grow/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/bar-chart-grow/meta.json.source.txt",
+      "bytes": 101,
+      "sha256": "234df9f5b0e32af58a1b8240a1d4b17a853cb5a114cd031423006507d533ab6b",
+      "git_blob": "be52338f590d5674fc22a77f503eeb974ec6386a"
+    },
+    {
+      "upstream_path": "templates/bar-chart-grow/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/bar-chart-grow/package.json.source.txt",
+      "bytes": 385,
+      "sha256": "7ca23a6035b1fc1f7ddca7c19515aa31c6b61cd184c21ae271e521fd0c1be5fd",
+      "git_blob": "817a4a034d5e7d73205feae51dc08ea987a771d2"
+    },
+    {
+      "upstream_path": "templates/bar-chart-grow/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/bar-chart-grow/presets/AI提效.json.source.txt",
+      "bytes": 314,
+      "sha256": "387f63e1e034e350a624bae24ab2fe87c284f493fc1dacfb77968cb4aec89b0a",
+      "git_blob": "a1ef8aa8bb7fe60993dbac2f8110dea2a174525f"
+    },
+    {
+      "upstream_path": "templates/bar-chart-grow/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/bar-chart-grow/presets/default.json.source.txt",
+      "bytes": 279,
+      "sha256": "6805106392482d7518c69f1db05cfcfd7252a6ba7cf4722e57214adc8a21c241",
+      "git_blob": "ae85591db93ac838e7cb18413af235c3b024f945"
+    },
+    {
+      "upstream_path": "templates/bar-chart-grow/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/bar-chart-grow/presets/业务增长.json.source.txt",
+      "bytes": 263,
+      "sha256": "28671be93c01195d2245f5e095c28c5543f112e3378ee4f5596880973b34584d",
+      "git_blob": "bbae706b0e7cacb0bd1787bd33525703ba940a6f"
+    },
+    {
+      "upstream_path": "templates/before-after-stat/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/before-after-stat/design.md.source.txt",
+      "bytes": 294,
+      "sha256": "345c2bb7fc93115bcdc0068d01ae9b85376b2b62ed148056a98279892b109ec1",
+      "git_blob": "e73568899417376151ef7aa9c634e122918ab8e3"
+    },
+    {
+      "upstream_path": "templates/before-after-stat/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/before-after-stat/index.html.source.txt",
+      "bytes": 25122,
+      "sha256": "e64301925437e63a140556db71fb1f68c299389e260cf97c2bb8626e680b8669",
+      "git_blob": "f7d3b9134b36330ca11ff192dea4571d57b12e37"
+    },
+    {
+      "upstream_path": "templates/before-after-stat/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/before-after-stat/meta.json.source.txt",
+      "bytes": 94,
+      "sha256": "2d7d47bc7ea021520fa41204e1d71790db189e5a959bcf170956cd89041ce9dd",
+      "git_blob": "d9bf3864aa29b5d44288d174bfe5ff172d6b3140"
+    },
+    {
+      "upstream_path": "templates/before-after-stat/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/before-after-stat/package.json.source.txt",
+      "bytes": 344,
+      "sha256": "6fef424c4b763598cc83f3ea9a9d842b8db0212d5d894513682b19f51ff8fe1d",
+      "git_blob": "66e2545718d762ea64fd70274969b50cc2182389"
+    },
+    {
+      "upstream_path": "templates/before-after-stat/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/before-after-stat/presets/AI提效.json.source.txt",
+      "bytes": 264,
+      "sha256": "ab4edeb42fee18a949201abaaa7ebfe0925722f3ff58da1bb0f37aec264431ea",
+      "git_blob": "4fa7c3fff1a67664a6e0c3a35bc620b6974204dc"
+    },
+    {
+      "upstream_path": "templates/before-after-stat/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/before-after-stat/presets/default.json.source.txt",
+      "bytes": 216,
+      "sha256": "cd36b05743ddd8d9805a8989708054a39a1e502544c2223bb0b8388ea52618a0",
+      "git_blob": "adb609769b39df57f1b6fe7661d43b5a0190a15b"
+    },
+    {
+      "upstream_path": "templates/before-after-stat/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/before-after-stat/presets/业务增长.json.source.txt",
+      "bytes": 276,
+      "sha256": "f15c9b7bf7dd1dc7b6c91a89d2c89bd4f9410fc9ddff2cec34337e730a5a95ac",
+      "git_blob": "b3be9fe3198a155d39cad4e61022e4704308ba8d"
+    },
+    {
+      "upstream_path": "templates/big-number-card/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/big-number-card/design.md.source.txt",
+      "bytes": 1081,
+      "sha256": "d6d114fbeee671e45308cf6938468f13e30f49c14bc5e8b7f28207fda461034d",
+      "git_blob": "c258e101de0258445caf0ff4fb8ce491719e5aab"
+    },
+    {
+      "upstream_path": "templates/big-number-card/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/big-number-card/index.html.source.txt",
+      "bytes": 24129,
+      "sha256": "2fb50f588f24f73d401205c66b7676a7e68b3a5f3b1d0ad9054e675931145fa8",
+      "git_blob": "f939f1804c7163da373a0dfdb4e33568efc672fa"
+    },
+    {
+      "upstream_path": "templates/big-number-card/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/big-number-card/meta.json.source.txt",
+      "bytes": 105,
+      "sha256": "2187ae485c41fb6a48e24a3a4aee1a3b9b6fd05f969d74ace1f6a0725c0733f9",
+      "git_blob": "c6f7373862e2c52d059be59f94abd890fc8c0fb6"
+    },
+    {
+      "upstream_path": "templates/big-number-card/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/big-number-card/package.json.source.txt",
+      "bytes": 386,
+      "sha256": "9e2314b23457d466362132a7e0d514695bba079d2b2cb52e971bee7271748ca3",
+      "git_blob": "098ab65cc10577f97984ad12fae2b8a0f5fb3c68"
+    },
+    {
+      "upstream_path": "templates/big-number-card/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/big-number-card/presets/AI提效.json.source.txt",
+      "bytes": 239,
+      "sha256": "8a7e78855f88bff79d7187a7bf70edaf30a6033de74f73318d36ab55c15ac3b0",
+      "git_blob": "5fdb32796eae71713761464f477c6b60a8e94c6a"
+    },
+    {
+      "upstream_path": "templates/big-number-card/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/big-number-card/presets/default.json.source.txt",
+      "bytes": 241,
+      "sha256": "df6804a3a3ea142219e63680147873843899ad387ff70d9121ffcce527726ca1",
+      "git_blob": "c30819e313c43e142202e9af9ef9a566f8ad1757"
+    },
+    {
+      "upstream_path": "templates/big-number-card/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/big-number-card/presets/业务增长.json.source.txt",
+      "bytes": 238,
+      "sha256": "a5c3d68eeede6ad130e2c9c0fc306deeba24b523de4b7e4a6851f1710573a429",
+      "git_blob": "bf7372cef5acadc77f0c8fe094bb587fef6f617b"
+    },
+    {
+      "upstream_path": "templates/cause-chain/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/cause-chain/design.md.source.txt",
+      "bytes": 1339,
+      "sha256": "f9e7278c29b0d7b234529d1b738c3871db48873271331e6a9e693ff3d655e3eb",
+      "git_blob": "e9de93557d77c47b191ab30698f80a6c51c93104"
+    },
+    {
+      "upstream_path": "templates/cause-chain/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/cause-chain/index.html.source.txt",
+      "bytes": 25007,
+      "sha256": "2a14b8b998e8245e55601bc1be86035b0520b742e76fafecb43370f55e6de846",
+      "git_blob": "f25b349601bc6454334c70bf57b65fabeef14b4b"
+    },
+    {
+      "upstream_path": "templates/cause-chain/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/cause-chain/meta.json.source.txt",
+      "bytes": 95,
+      "sha256": "e3086e27374c7a49ffdf2d1bc30ed1714c83ad1025e1551c1ad8b7db46f71620",
+      "git_blob": "c23f856821afe415be92c662181c3664878ebe27"
+    },
+    {
+      "upstream_path": "templates/cause-chain/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/cause-chain/package.json.source.txt",
+      "bytes": 382,
+      "sha256": "f84507652409f8f019217b727eb57f342e0835d6ccab422c0888f44781f86ef7",
+      "git_blob": "e1d5594e7befa48463485c6692446f5c02581060"
+    },
+    {
+      "upstream_path": "templates/cause-chain/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/cause-chain/presets/AI提效.json.source.txt",
+      "bytes": 229,
+      "sha256": "1cc1f5b36337b30af9f90b0f7ad3d33c7489039022b1e653720a75b08514302a",
+      "git_blob": "c61986bb246972f30407ac5e890d97cfe5bbcc39"
+    },
+    {
+      "upstream_path": "templates/cause-chain/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/cause-chain/presets/default.json.source.txt",
+      "bytes": 217,
+      "sha256": "b6573ba6e1530d618149ec0afca69fe27fdc2518877c550546354d7de14d6a33",
+      "git_blob": "bd0cd6f572cb9f53346355278a30a84b425f1061"
+    },
+    {
+      "upstream_path": "templates/cause-chain/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/cause-chain/presets/业务增长.json.source.txt",
+      "bytes": 220,
+      "sha256": "31091ab2407738c5c7047947df4cd13c58096877e4aab2c638e691e15cb2ca03",
+      "git_blob": "0d3e4f51b94835d997a078ae6b373e5ee89a4c58"
+    },
+    {
+      "upstream_path": "templates/chapter-title/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/design.md.source.txt",
+      "bytes": 2335,
+      "sha256": "e6551fe58e5e74ea280286661c7c06d2e72b2872aaf51c9745d3342682a7c06b",
+      "git_blob": "d751de0f53d72fdcbf5c748c1d5a6b4c6b68d35f"
+    },
+    {
+      "upstream_path": "templates/chapter-title/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/index.html.source.txt",
+      "bytes": 24550,
+      "sha256": "42f116283675c8eebd5fcb5c0f0bda1cf4754fb7a5711be7416472797bc83427",
+      "git_blob": "ea9e4a1b8fc4b6617e7f065bfec452abf6d2dcb0"
+    },
+    {
+      "upstream_path": "templates/chapter-title/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/meta.json.source.txt",
+      "bytes": 154,
+      "sha256": "ba9bb5d14e4f1a257747288fffc06bd28b669d9bfbcf60c3999359474670be36",
+      "git_blob": "1e05bedbfda3d0704f2fce341050751e96a86855"
+    },
+    {
+      "upstream_path": "templates/chapter-title/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/package.json.source.txt",
+      "bytes": 384,
+      "sha256": "05a80b449dc08291e3d9d474cfe62430e8cfb625a09cb69f496cc94b60933416",
+      "git_blob": "6149c29d0d513c95551274b59789bcff44ce2c8f"
+    },
+    {
+      "upstream_path": "templates/chapter-title/portrait/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/portrait/index.html.source.txt",
+      "bytes": 24535,
+      "sha256": "d7778c3959f3980e1dba181aa16bc9a3116c031b267a8f0da782ebf3b5453769",
+      "git_blob": "cb0a92d5f228b625a3c9a31270a999dc6a5b20f8"
+    },
+    {
+      "upstream_path": "templates/chapter-title/portrait/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/portrait/package.json.source.txt",
+      "bytes": 393,
+      "sha256": "d1f40517aa2fff0e6087019981910272f103dfe9d6a484f5e2b829080ae9b606",
+      "git_blob": "9742a32ddd17c325c499877ea842ba5b01c6c018"
+    },
+    {
+      "upstream_path": "templates/chapter-title/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/presets/default.json.source.txt",
+      "bytes": 245,
+      "sha256": "dff65c3607e04b06d6e6385960310eb1df09d60bf778b2153adec71f7cec6ade",
+      "git_blob": "e67a1c831e11eb6e481a470e496950476906eedb"
+    },
+    {
+      "upstream_path": "templates/chapter-title/presets/复盘方法.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/presets/复盘方法.json.source.txt",
+      "bytes": 245,
+      "sha256": "c5b467671e7fe713b137cb6f14b36a8c1bee3d145690a616908c871fdd14f202",
+      "git_blob": "400717bae58152220c8370ec61dbb701eec9aee3"
+    },
+    {
+      "upstream_path": "templates/chapter-title/presets/效率系统.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/chapter-title/presets/效率系统.json.source.txt",
+      "bytes": 239,
+      "sha256": "d52b0326e267713bb841c43d22ac9a2506d566819a58dae2298d21956a3bab5c",
+      "git_blob": "b163143e12f3690c2e71dacfd7f4b50d2c777edd"
+    },
+    {
+      "upstream_path": "templates/checklist-pop/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/checklist-pop/design.md.source.txt",
+      "bytes": 1243,
+      "sha256": "33dbfb3cd3cbe2180af600226ea0e6986e6cc9cbc9341ae5dde236180e1dc23d",
+      "git_blob": "c24314016f08227ff8f2b77acc3f2d499766aed3"
+    },
+    {
+      "upstream_path": "templates/checklist-pop/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/checklist-pop/index.html.source.txt",
+      "bytes": 23759,
+      "sha256": "7e7e35aa5d19c66c4db24b2ec2dcaddc03ad13137730e00aaf4dda9386e40f04",
+      "git_blob": "232818e9a79390d77b0d4fddafe62707660d598b"
+    },
+    {
+      "upstream_path": "templates/checklist-pop/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/checklist-pop/meta.json.source.txt",
+      "bytes": 97,
+      "sha256": "108131db9484035858f06edfce3a981531a9061cee867760f8b242a1e73b80d1",
+      "git_blob": "bbc3e0fa518c618cacfbc9e86a1b8369607fc99d"
+    },
+    {
+      "upstream_path": "templates/checklist-pop/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/checklist-pop/package.json.source.txt",
+      "bytes": 384,
+      "sha256": "7ce1d4688b35554b507a7019dcceb4ac60d4bec85ee401da57919fdaa55fbf96",
+      "git_blob": "b3b31fafcb5e97ebc2a495759945c6e15aafd0cd"
+    },
+    {
+      "upstream_path": "templates/checklist-pop/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/checklist-pop/presets/AI提效.json.source.txt",
+      "bytes": 234,
+      "sha256": "10175ae050a538a12e2a3f658ede351af47d20e7ec78d9e3f1a318e8e716ac53",
+      "git_blob": "c49aee834110fe2f7cbd75cebf93d73ade0fa1d3"
+    },
+    {
+      "upstream_path": "templates/checklist-pop/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/checklist-pop/presets/default.json.source.txt",
+      "bytes": 226,
+      "sha256": "f9c8a05221bd9eba159594615713d120a0f97b21c7bed77f4a613a14d7361db2",
+      "git_blob": "acceb8e40af29c7e745fefda81d9494503323c2e"
+    },
+    {
+      "upstream_path": "templates/checklist-pop/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/checklist-pop/presets/业务增长.json.source.txt",
+      "bytes": 218,
+      "sha256": "7bb932367d1828ba417ed1cf77ec1191dad7aacfd0269d2d9fbca4bd9a0d0f5d",
+      "git_blob": "5ca7f3a5369247b9b0c80978471f539650b6dc08"
+    },
+    {
+      "upstream_path": "templates/compact-number-callout/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/compact-number-callout/design.md.source.txt",
+      "bytes": 1249,
+      "sha256": "5fa656f4d8a86387a825b2e84a6488a792d386ef735635e1309420e268e514d0",
+      "git_blob": "44fd55c34042f1ad443a031c8f617c714844f9b5"
+    },
+    {
+      "upstream_path": "templates/compact-number-callout/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/compact-number-callout/index.html.source.txt",
+      "bytes": 25530,
+      "sha256": "9bdf8d803354481a74f381a8c48e73a671b18700506e6145a654c5ad30c39f68",
+      "git_blob": "29a7fe941f4471361ce58bd382887e259f837fce"
+    },
+    {
+      "upstream_path": "templates/compact-number-callout/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/compact-number-callout/meta.json.source.txt",
+      "bytes": 112,
+      "sha256": "4b786523648268440e2dd9b6a766c3b8b4a6180855cfc52f9cf061b320871030",
+      "git_blob": "205b44a87737bccf13fd9b442fb3765ad9bd55eb"
+    },
+    {
+      "upstream_path": "templates/compact-number-callout/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/compact-number-callout/package.json.source.txt",
+      "bytes": 393,
+      "sha256": "1793de303f24ddea6d60966917aa86569e42009e7f9a634c0a62689de295634c",
+      "git_blob": "056e0e2eeae084d4acdd02ada1e763e2388218b4"
+    },
+    {
+      "upstream_path": "templates/compact-number-callout/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/compact-number-callout/presets/default.json.source.txt",
+      "bytes": 220,
+      "sha256": "12674ef8d47011aca1cb6417e3e091a12587511d7e22dc45a7b9bc301bf292fb",
+      "git_blob": "9251779743e8d12bbc0d57d07a1cec13705af469"
+    },
+    {
+      "upstream_path": "templates/compact-number-callout/presets/growth.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/compact-number-callout/presets/growth.json.source.txt",
+      "bytes": 220,
+      "sha256": "bda68fe9dbbeac1c5c6c6629ded0ffb9537976b734d7cf40fc04f9f3aaa78b65",
+      "git_blob": "8e4f74cb75a87677d079965abbd790461c24fcbf"
+    },
+    {
+      "upstream_path": "templates/compact-number-callout/presets/time-saved.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/compact-number-callout/presets/time-saved.json.source.txt",
+      "bytes": 229,
+      "sha256": "0f7b05880e3e51c89d498fb6d6cc82fda87f0091946c31d4eeb803825752066d",
+      "git_blob": "43ee3425ee5cd7737bceba7fd9bc02537bf7054e"
+    },
+    {
+      "upstream_path": "templates/concept-spotlight/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/concept-spotlight/design.md.source.txt",
+      "bytes": 1241,
+      "sha256": "78a0a6e26cd5ef439184afaa7426542490ef89300262ccf88801d2704b2ae1c7",
+      "git_blob": "62864046d32ef3b59b788ae47bbe0181fae978a5"
+    },
+    {
+      "upstream_path": "templates/concept-spotlight/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/concept-spotlight/index.html.source.txt",
+      "bytes": 23528,
+      "sha256": "0d47d70bcd2d22f401c4c081227a7813e22c337046012fd0cdcdcef23a91ef54",
+      "git_blob": "216149dd3c8e55c4eeeeb1c7e8a0f42c866d3c63"
+    },
+    {
+      "upstream_path": "templates/concept-spotlight/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/concept-spotlight/meta.json.source.txt",
+      "bytes": 104,
+      "sha256": "1a16b19dec17ab4ce1e002178c7d2f914053f60147192c58ab7a110ca43babd6",
+      "git_blob": "de76572e0a596a758e7ea149bb39262151897bd3"
+    },
+    {
+      "upstream_path": "templates/concept-spotlight/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/concept-spotlight/package.json.source.txt",
+      "bytes": 388,
+      "sha256": "9d21bf43182c49787e81b9ed3402ee4f959471c7a1f56f222c5415637c3648ea",
+      "git_blob": "d3abc14199b6ab0b20e6e265c21908d961f689a2"
+    },
+    {
+      "upstream_path": "templates/concept-spotlight/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/concept-spotlight/presets/AI提效.json.source.txt",
+      "bytes": 263,
+      "sha256": "6af1c3f9e9d1c21a0b84bb1f46b239fa5a9ad935bd0540ac2bf79e3d565b21c9",
+      "git_blob": "d6d695de809c08561826cd027e359d89cf28a4cc"
+    },
+    {
+      "upstream_path": "templates/concept-spotlight/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/concept-spotlight/presets/default.json.source.txt",
+      "bytes": 221,
+      "sha256": "c2bdb2d49d27f51e4fe0fb3059bc248e6489bfab9bbabddb2185d81068207036",
+      "git_blob": "a44072d620698f93b2ed6eb43c682c1a9b988ca9"
+    },
+    {
+      "upstream_path": "templates/concept-spotlight/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/concept-spotlight/presets/业务增长.json.source.txt",
+      "bytes": 257,
+      "sha256": "017a05bae11162812375d80e10152ca79fcdee7ad0e23276400e93cd3abb0a10",
+      "git_blob": "9767c142047f4211b674f13b650a6d45986067e9"
+    },
+    {
+      "upstream_path": "templates/donut-progress/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/design.md.source.txt",
+      "bytes": 2394,
+      "sha256": "41aad60beac7c47253449dbea3ac0de7da82ad6c02a6c560d57e3925c59b4049",
+      "git_blob": "b495445b286b9d1f15f1e9831eab2cc75fde855e"
+    },
+    {
+      "upstream_path": "templates/donut-progress/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/index.html.source.txt",
+      "bytes": 26056,
+      "sha256": "e612f30bb678eb4c71c8272a92006578283d830fcebb7166dcab7977965ec3dd",
+      "git_blob": "64c4ea605d8603b8156efb1d6cacc77eddc09480"
+    },
+    {
+      "upstream_path": "templates/donut-progress/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/meta.json.source.txt",
+      "bytes": 155,
+      "sha256": "b0d2fb7f8618c5a1566cdc492641fc97057004cea90e9015288dfdf5c988ebba",
+      "git_blob": "536005d9a877ced41a1994a2c2c37ccbea6de197"
+    },
+    {
+      "upstream_path": "templates/donut-progress/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/package.json.source.txt",
+      "bytes": 385,
+      "sha256": "f4e5cadcf812ee7b2eb721c111b60784f1f0e9153e76123eeef1f6e1d8915315",
+      "git_blob": "9870b14d432f7ff86f623e9d9b2337ce4eca9f40"
+    },
+    {
+      "upstream_path": "templates/donut-progress/portrait/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/portrait/index.html.source.txt",
+      "bytes": 26078,
+      "sha256": "aca8c8c68de0af2368b7ccf7d32c1a7fb4a7d95a38113301ad08eb3156bb6149",
+      "git_blob": "8c138df42544e9d4904ee4f5512c37cb030e12f1"
+    },
+    {
+      "upstream_path": "templates/donut-progress/portrait/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/portrait/package.json.source.txt",
+      "bytes": 394,
+      "sha256": "a1fa47a50b0669d07e4ea6bce78866433ef11cc81e677eed47db0a3fa96eb455",
+      "git_blob": "a2372990ffe35bbf11a0ecca0d9fde863a6f0be6"
+    },
+    {
+      "upstream_path": "templates/donut-progress/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/presets/default.json.source.txt",
+      "bytes": 228,
+      "sha256": "ff9232a5d4ab37a1ec0d76266c5f2685ef9fb69ffa7ae82669d90dfc2b24147e",
+      "git_blob": "07237b427c7e990528dc40ec19454097cb1fc183"
+    },
+    {
+      "upstream_path": "templates/donut-progress/presets/完播率.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/presets/完播率.json.source.txt",
+      "bytes": 219,
+      "sha256": "f711b9cae2582a7dd6666305aabd4e8472eebc24266f67b3cf9db82b03a68e5e",
+      "git_blob": "0b0ea4f5f106432d49c0583a11f0b038b946d70e"
+    },
+    {
+      "upstream_path": "templates/donut-progress/presets/时间盘点.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/donut-progress/presets/时间盘点.json.source.txt",
+      "bytes": 228,
+      "sha256": "b885d9fbfb709db0c5343a9f59f3f64637e9b7563c9d146be5585dab0dd68dac",
+      "git_blob": "cdada65e8135b29ee37946bd8cfe2eb63f426a37"
+    },
+    {
+      "upstream_path": "templates/horizontal-bar-compare/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/horizontal-bar-compare/design.md.source.txt",
+      "bytes": 1037,
+      "sha256": "0f856b4ba62d1b16cab9be239cb67852e0d9f2cc81f8730ae4fd2a36286c0e09",
+      "git_blob": "de60ea7740dfb66b7a5674321cf9e81d841effcc"
+    },
+    {
+      "upstream_path": "templates/horizontal-bar-compare/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/horizontal-bar-compare/index.html.source.txt",
+      "bytes": 24393,
+      "sha256": "5f40dfbe31f806314857af2eea6857ede47eedc05e9e86119c0b59828e0549e3",
+      "git_blob": "16273310a7db13c6a249c6f4fa1687d240e55aaa"
+    },
+    {
+      "upstream_path": "templates/horizontal-bar-compare/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/horizontal-bar-compare/meta.json.source.txt",
+      "bytes": 99,
+      "sha256": "282ee8c7992529388e91d1cbb62aad6d49faa52af59a8abfc5fb4b1e47eda232",
+      "git_blob": "651279730f6261d65718c61b7660ec1951620307"
+    },
+    {
+      "upstream_path": "templates/horizontal-bar-compare/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/horizontal-bar-compare/package.json.source.txt",
+      "bytes": 349,
+      "sha256": "47b021bee148da1bb2ba549b1fd5757ad9555050f6d9197ee5939b134128f39d",
+      "git_blob": "b82ffcfc8e4120a779a2e71ea86fe243448c67be"
+    },
+    {
+      "upstream_path": "templates/horizontal-bar-compare/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/horizontal-bar-compare/presets/AI提效.json.source.txt",
+      "bytes": 270,
+      "sha256": "7b9d5c274014c355bb553bc0c0b7568e11d930999502ee6e9b28dcbc939cbcbb",
+      "git_blob": "74b3fc6e1f5f8c428d13fa611b143acd9893a954"
+    },
+    {
+      "upstream_path": "templates/horizontal-bar-compare/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/horizontal-bar-compare/presets/default.json.source.txt",
+      "bytes": 236,
+      "sha256": "cecc514a842f77d698d063edb82a9a02eb2fde3c540a7a5426f5091c599de50a",
+      "git_blob": "f242fe43d37e50df7083ccc80ec0c879820e331f"
+    },
+    {
+      "upstream_path": "templates/horizontal-bar-compare/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/horizontal-bar-compare/presets/业务增长.json.source.txt",
+      "bytes": 285,
+      "sha256": "e7512ff25595daa6a6d1dbb36f2c4affc68ecff18e2e87e22556e69efb8d23ad",
+      "git_blob": "ed6d8260f83d4ddccc2a97c4703be9129a52978a"
+    },
+    {
+      "upstream_path": "templates/iteration-loop/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/iteration-loop/design.md.source.txt",
+      "bytes": 1272,
+      "sha256": "987432b9a2cb2f60ca00100b04e13c36287e7838ce4a159ea98e0dccbb3fdc30",
+      "git_blob": "ee97f794e51f981ea15ea9d83d184aa4c57fa23a"
+    },
+    {
+      "upstream_path": "templates/iteration-loop/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/iteration-loop/index.html.source.txt",
+      "bytes": 26142,
+      "sha256": "43f01af244711f1a04d7997686e7a5e7b8344e347cdf563b26ac867ee0417a32",
+      "git_blob": "d17f41725131d470488c8cd3de614382e93eeabb"
+    },
+    {
+      "upstream_path": "templates/iteration-loop/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/iteration-loop/meta.json.source.txt",
+      "bytes": 98,
+      "sha256": "c57f1f87bb64367aa6714544913030fb5f55cb15d654867ca65c2ccc593d0428",
+      "git_blob": "a012b2118aec36650b8b63003b0ae1e6b1004508"
+    },
+    {
+      "upstream_path": "templates/iteration-loop/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/iteration-loop/package.json.source.txt",
+      "bytes": 385,
+      "sha256": "c7f01873764d62a160e84f639f518f46dd452ba51cbc349eb5242a42db8cde74",
+      "git_blob": "c9f36e1bed55d337f099828b0667c5fc77067347"
+    },
+    {
+      "upstream_path": "templates/iteration-loop/presets/content-review.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/iteration-loop/presets/content-review.json.source.txt",
+      "bytes": 260,
+      "sha256": "aa3afbbbe1703d7acedd06e45d4733353a26d74a30ee6efa7fb12d6c2e00cba9",
+      "git_blob": "d9520ecdc5a8497b184be09589fe10f56f843c08"
+    },
+    {
+      "upstream_path": "templates/iteration-loop/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/iteration-loop/presets/default.json.source.txt",
+      "bytes": 254,
+      "sha256": "9485f1e5f92177ea0fae38e9cf581bc0c015e49daf05908ffdc7ae3296f62152",
+      "git_blob": "5a0454fea7978dfc7fd72edda733751619ec4d72"
+    },
+    {
+      "upstream_path": "templates/iteration-loop/presets/product-cycle.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/iteration-loop/presets/product-cycle.json.source.txt",
+      "bytes": 263,
+      "sha256": "06b61a6f5cf7025a553e170c732a7ea4f4a8f57d6d171095d9522eeff9a6f42c",
+      "git_blob": "7fab1788886378cde6d0f6c11769480bd9d0fb32"
+    },
+    {
+      "upstream_path": "templates/key-point-marker/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/key-point-marker/design.md.source.txt",
+      "bytes": 1113,
+      "sha256": "f73198a17a6a51b7699f5fea9e464fd80599a31ad6116cd374746a3720e004c4",
+      "git_blob": "6ea8c1d199ad7618540213ee9b6af18a783669b1"
+    },
+    {
+      "upstream_path": "templates/key-point-marker/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/key-point-marker/index.html.source.txt",
+      "bytes": 23200,
+      "sha256": "0e2d1cf8ede6cc8aae4932a3126e5de41e288ab4a4f1b922eecfdb2a160d6195",
+      "git_blob": "874da0947b496c765d4346ba40bb13a4792bff5c"
+    },
+    {
+      "upstream_path": "templates/key-point-marker/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/key-point-marker/meta.json.source.txt",
+      "bytes": 100,
+      "sha256": "83a367dace00b5c083569d30443e291d95b0550fd14d96dde39797f93ce6daba",
+      "git_blob": "1c9dd49b0bb21757a764d6f77e0d58ded7b432a6"
+    },
+    {
+      "upstream_path": "templates/key-point-marker/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/key-point-marker/package.json.source.txt",
+      "bytes": 387,
+      "sha256": "b0f10f82cd21a949722edbb135577cb1aaf2409ed3cf0c9eef11e73935702acc",
+      "git_blob": "045453062114d85c7121becc0304f1d273bba120"
+    },
+    {
+      "upstream_path": "templates/key-point-marker/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/key-point-marker/presets/AI提效.json.source.txt",
+      "bytes": 206,
+      "sha256": "0b1265617468a12032a7f30482a71475a58e0ba535ff6461e5f7521d67c87a95",
+      "git_blob": "a98e2fef1d30e2f560901ce14a5fdd1efc0e92b3"
+    },
+    {
+      "upstream_path": "templates/key-point-marker/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/key-point-marker/presets/default.json.source.txt",
+      "bytes": 181,
+      "sha256": "06b68b37bd1190627ae73e3953fd3f71e494dc517112c5049eb4d101079972cc",
+      "git_blob": "c462b014a05cd158443bba4a4ad6e0acde887be0"
+    },
+    {
+      "upstream_path": "templates/key-point-marker/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/key-point-marker/presets/业务增长.json.source.txt",
+      "bytes": 205,
+      "sha256": "8d99c538815ac7f4f5fa591b7867d48e29f84ad7a34df4935363e261c1a6a22c",
+      "git_blob": "426aaf2cb2c97351b60397d3d32212f5253a0c39"
+    },
+    {
+      "upstream_path": "templates/keyword-blast/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/keyword-blast/design.md.source.txt",
+      "bytes": 1619,
+      "sha256": "ec1c7972f8b13745650ba4bc732bfed4e56d0a12a95d2f95c60cddbeca5a31ea",
+      "git_blob": "9ec44e81ba4f7b28d39a1aed796196017f4ed19f"
+    },
+    {
+      "upstream_path": "templates/keyword-blast/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/keyword-blast/index.html.source.txt",
+      "bytes": 23566,
+      "sha256": "94e18d66272251b79d482c272499c343329eec6cc4b9f9465aea7a324725cadd",
+      "git_blob": "4b73b29dc30df563d2bb807692f2bc9ed30eccb8"
+    },
+    {
+      "upstream_path": "templates/keyword-blast/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/keyword-blast/meta.json.source.txt",
+      "bytes": 100,
+      "sha256": "78bfc6c05c76cd5e20cef4805d2d279419bdfa01c8fc1c97e5c4e2dd2f72d988",
+      "git_blob": "0535706954e9412b8cdf3bf0b21fe7e11ff55d92"
+    },
+    {
+      "upstream_path": "templates/keyword-blast/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/keyword-blast/package.json.source.txt",
+      "bytes": 384,
+      "sha256": "3605858a5a59fdb249c98e6bbd12e90dc448005940a9b2290daaaf3acd9781cd",
+      "git_blob": "f09e9619b4dba2a067c960f35bb59a34485d261b"
+    },
+    {
+      "upstream_path": "templates/keyword-blast/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/keyword-blast/presets/default.json.source.txt",
+      "bytes": 202,
+      "sha256": "54f6c05585e41b719d74c87e1f8773af9804ff50ebc4b7fee81be47835d5d73b",
+      "git_blob": "13f353cf7ef6ca26d6af6bcd9a8c237bde3d6983"
+    },
+    {
+      "upstream_path": "templates/keyword-blast/presets/方法论.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/keyword-blast/presets/方法论.json.source.txt",
+      "bytes": 241,
+      "sha256": "dd22eb1a04e8ae56fc30346e85b70035ea91f59eb12602584f737534a0208823",
+      "git_blob": "9114ddab52c1c0b6f8ca3e9a4688629dc4c890b5"
+    },
+    {
+      "upstream_path": "templates/keyword-blast/presets/认知反转.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/keyword-blast/presets/认知反转.json.source.txt",
+      "bytes": 241,
+      "sha256": "9c0abda452bbcc317f2094276b7a5eff0245c2037625ccb91c7bf3e7f18b55c6",
+      "git_blob": "47c07c167dbbb4d7aafb94674dbf9c1b3a7c3c03"
+    },
+    {
+      "upstream_path": "templates/line-chart-draw/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/line-chart-draw/design.md.source.txt",
+      "bytes": 2257,
+      "sha256": "0c33ec59992a3f8b76238cb76e50af68cd2a38650268d3cb657c7476f159c762",
+      "git_blob": "199c1fd088b0978b3304dac5872fca205a7aa50c"
+    },
+    {
+      "upstream_path": "templates/line-chart-draw/hyperframes.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/line-chart-draw/hyperframes.json.source.txt",
+      "bytes": 278,
+      "sha256": "60430047b7e49e9d03fab28f90dc75da3a0fc79900354582df181d7d2efc1509",
+      "git_blob": "5fb1d6d872f5ecb406008695d86ae69f4216b465"
+    },
+    {
+      "upstream_path": "templates/line-chart-draw/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/line-chart-draw/index.html.source.txt",
+      "bytes": 29816,
+      "sha256": "b6e3c629cf6afaac03f9915a2fcc82b93190f199b777ac6d5bc8f3b6f4bb4d9d",
+      "git_blob": "83075e3ff7e4e278af0ac3889c2f3e9d209a1582"
+    },
+    {
+      "upstream_path": "templates/line-chart-draw/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/line-chart-draw/meta.json.source.txt",
+      "bytes": 99,
+      "sha256": "9566b0178d8fc03b620ca3d34a28b960379407d9b80e471b3249b57b19bd3d35",
+      "git_blob": "f8c87effde683368ec7a8d97d806d9bc3e3db3ca"
+    },
+    {
+      "upstream_path": "templates/line-chart-draw/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/line-chart-draw/package.json.source.txt",
+      "bytes": 386,
+      "sha256": "103957372f3dff5a3ed9f8cc21f324ce13ef15bccf3aafae910d0b323c202416",
+      "git_blob": "6581faf985821c26d5996b8ddb846b7b951ceef5"
+    },
+    {
+      "upstream_path": "templates/line-chart-draw/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/line-chart-draw/presets/AI提效.json.source.txt",
+      "bytes": 280,
+      "sha256": "ffb78053aa30d55c2d2ca2ac15dd8338df3613f7975ddeedca8091d64c09700a",
+      "git_blob": "f2eb986fc0b29d1ff5dbac50bd59d4be24e4ad1f"
+    },
+    {
+      "upstream_path": "templates/line-chart-draw/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/line-chart-draw/presets/default.json.source.txt",
+      "bytes": 300,
+      "sha256": "1fa9ecbce13f621d1a1ec3fad25d86b48748521ce351d79af7668e8b520b65fe",
+      "git_blob": "fde5133d6cd3ec70076b03d756b5a26be6fa6e9f"
+    },
+    {
+      "upstream_path": "templates/line-chart-draw/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/line-chart-draw/presets/业务增长.json.source.txt",
+      "bytes": 247,
+      "sha256": "bbe471c4b7f1e495cfb26c004b92e8ef5702f0a2f7d379a2aa0925d23826ec7f",
+      "git_blob": "e96c58bfe5fc9c5014cf8f25572ad409388c0ee7"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/AGENTS.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/AGENTS.md.source.txt",
+      "bytes": 5565,
+      "sha256": "0989cf5db4a1a5e0829683a4eaa64100781a9a41cf424bbfa2f87868d577b59c",
+      "git_blob": "684ced94c9a264b7a958772ca81e0ff835c99e05"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/CLAUDE.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/CLAUDE.md.source.txt",
+      "bytes": 5565,
+      "sha256": "0989cf5db4a1a5e0829683a4eaa64100781a9a41cf424bbfa2f87868d577b59c",
+      "git_blob": "684ced94c9a264b7a958772ca81e0ff835c99e05"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/design.md.source.txt",
+      "bytes": 2014,
+      "sha256": "200eebf18e9be8378b1c941d776381f674dd0c69a87e463f69d816b947b7bd18",
+      "git_blob": "62c793bdceddf22d8def1bb9fd2437ce581152f9"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/hyperframes.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/hyperframes.json.source.txt",
+      "bytes": 278,
+      "sha256": "60430047b7e49e9d03fab28f90dc75da3a0fc79900354582df181d7d2efc1509",
+      "git_blob": "5fb1d6d872f5ecb406008695d86ae69f4216b465"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/index.html.source.txt",
+      "bytes": 24646,
+      "sha256": "9d114fd42019598022a284b21aa4e7f72022bd2d597636c57183cb4585e1912f",
+      "git_blob": "592d7bc0a5393a739cca183e0d6518e721da8e1c"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/meta.json.source.txt",
+      "bytes": 96,
+      "sha256": "51d167eac8979908fb75cacd1f7205e172839ed57fba8050ca072fb507ac8d62",
+      "git_blob": "309c55dd620f66c6476f07792523b0c336ff0dae"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/package.json.source.txt",
+      "bytes": 383,
+      "sha256": "6ae8f7cc5ba3b7bf7faec178771645159308f8096afacb9854ac5352cadd15a6",
+      "git_blob": "6c4db1e01a3787e015730c83b472725f69d65bcc"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/presets/AI提效.json.source.txt",
+      "bytes": 217,
+      "sha256": "9807ded22eebf0206366ce2d812b3a4b9d2f501b9d08444e34f04a8d54960b7c",
+      "git_blob": "4d18f73cc2a2baf4a5cf10ae740cf5523c5e2824"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/presets/default.json.source.txt",
+      "bytes": 224,
+      "sha256": "fac2a336535f0a45227d191f06fee1746986f187d81ca383f0564bbf766015d5",
+      "git_blob": "dd74ab5e03a4d9e25af78073e4f363be3033f9c5"
+    },
+    {
+      "upstream_path": "templates/metric-pulse/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/metric-pulse/presets/业务增长.json.source.txt",
+      "bytes": 211,
+      "sha256": "19e8c5b397f6dc470f7609a509cb88ca37be2f45050460601e643061a6c5b9e1",
+      "git_blob": "0fead15fadb1c82ce49f007af65fa38098f12d43"
+    },
+    {
+      "upstream_path": "templates/mode-choice-compare/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/mode-choice-compare/design.md.source.txt",
+      "bytes": 566,
+      "sha256": "d3a24bff05301fd0d4205cc98be98c0c728dc488fe5244804adfdaf2659a054d",
+      "git_blob": "a042f2713cae64d9422164c20fef647f64556aca"
+    },
+    {
+      "upstream_path": "templates/mode-choice-compare/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/mode-choice-compare/index.html.source.txt",
+      "bytes": 25193,
+      "sha256": "bc0f78212633e88a15b5741b8c316c3eb1d51f865521025715bed95dfc94afcc",
+      "git_blob": "82b52e20eeb6f0d4e22f7057294c8d60041bbc98"
+    },
+    {
+      "upstream_path": "templates/mode-choice-compare/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/mode-choice-compare/meta.json.source.txt",
+      "bytes": 109,
+      "sha256": "031aeca66628d7dd7a5e525d2f81bb43d7039db843ee3ef92aabaa3a99c917ca",
+      "git_blob": "d2ec5633344d745a0c9aaa275ff515e40a470f71"
+    },
+    {
+      "upstream_path": "templates/mode-choice-compare/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/mode-choice-compare/package.json.source.txt",
+      "bytes": 390,
+      "sha256": "729daa9296c00dbd163f273ac961d4fa5a73511436216f306222f8e849b50efe",
+      "git_blob": "03d68a9391f7171b8866272fe1a03702cbeb9883"
+    },
+    {
+      "upstream_path": "templates/mode-choice-compare/presets/cloud-local.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/mode-choice-compare/presets/cloud-local.json.source.txt",
+      "bytes": 250,
+      "sha256": "da8639d0ff2bf1d3a66827418048349b1b0c956418252b37ba913d9cf950ae0e",
+      "git_blob": "5262018136833d7f80c465ed5b4458885291e8c7"
+    },
+    {
+      "upstream_path": "templates/mode-choice-compare/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/mode-choice-compare/presets/default.json.source.txt",
+      "bytes": 244,
+      "sha256": "a8d9555e695db1c88a711f8c4a3f06612fccfd42efa21a94125205178672abff",
+      "git_blob": "dab57772841331a3deff3b545f74feea60d9ee07"
+    },
+    {
+      "upstream_path": "templates/mode-choice-compare/presets/speed-quality.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/mode-choice-compare/presets/speed-quality.json.source.txt",
+      "bytes": 250,
+      "sha256": "76285ff66a474aa9e142fa8fd54bd5833e9415bc993f9d9029709076c9228199",
+      "git_blob": "82d840d9f848fc89d49a87ea305f63cde1a7c50c"
+    },
+    {
+      "upstream_path": "templates/myth-fact-swap/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/myth-fact-swap/design.md.source.txt",
+      "bytes": 1558,
+      "sha256": "f9724ea57066f2e0629d1249ac8e70288afa4b12cba456a7289106e79afde0cd",
+      "git_blob": "d232eb328586dbba27aa496e5e687f603a86bdeb"
+    },
+    {
+      "upstream_path": "templates/myth-fact-swap/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/myth-fact-swap/index.html.source.txt",
+      "bytes": 24829,
+      "sha256": "1c4a2b61d3cae51f93de9cefdb7547fd42104e845719502cf9051d8eea1fc43d",
+      "git_blob": "e08f489e7103837c661e7e6512f101e8b281dab1"
+    },
+    {
+      "upstream_path": "templates/myth-fact-swap/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/myth-fact-swap/meta.json.source.txt",
+      "bytes": 98,
+      "sha256": "ca802a0155d83c3c41c8eeda6b9a3c1ef0232a697b1b580c2ddde7971479c02a",
+      "git_blob": "c051078d6736b90e7fb8ec331b9cedd7b822b607"
+    },
+    {
+      "upstream_path": "templates/myth-fact-swap/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/myth-fact-swap/package.json.source.txt",
+      "bytes": 385,
+      "sha256": "f66d696434e04932d25174872cdb29da23d9d93d04e5f9cf6682d4dbbb65d1fd",
+      "git_blob": "dd690673b9346878011a3eba77473c04b0ea9ce3"
+    },
+    {
+      "upstream_path": "templates/myth-fact-swap/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/myth-fact-swap/presets/AI提效.json.source.txt",
+      "bytes": 260,
+      "sha256": "db0594308281d8d37d74d6a71488073831f41f6c1758f8877b471c0cc8216205",
+      "git_blob": "b8248b66e849ab66fd97e4f03e6a088cb4e034e9"
+    },
+    {
+      "upstream_path": "templates/myth-fact-swap/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/myth-fact-swap/presets/default.json.source.txt",
+      "bytes": 265,
+      "sha256": "a314d56a2fbed92558a2b0b19624e862a727c5de07cc472ba3b7f923473dd5ef",
+      "git_blob": "618bf41720e67c01adf0a76464c1ca2904a14944"
+    },
+    {
+      "upstream_path": "templates/myth-fact-swap/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/myth-fact-swap/presets/业务增长.json.source.txt",
+      "bytes": 244,
+      "sha256": "19f74987748ea6ef39d1149a37be85c8cf6a99fb4b9ae5b70bb0bde5fc369c91",
+      "git_blob": "40f1844db0225c443d42e0988474edc9b996215c"
+    },
+    {
+      "upstream_path": "templates/number-counter/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-counter/design.md.source.txt",
+      "bytes": 1940,
+      "sha256": "d4be2e2a0174fd7ff9298ede3a3c3914e54fda0cde61812eef2efaec4416cb28",
+      "git_blob": "a243d125c63e2767bf39c209957cc7927bce20b7"
+    },
+    {
+      "upstream_path": "templates/number-counter/hyperframes.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-counter/hyperframes.json.source.txt",
+      "bytes": 278,
+      "sha256": "60430047b7e49e9d03fab28f90dc75da3a0fc79900354582df181d7d2efc1509",
+      "git_blob": "5fb1d6d872f5ecb406008695d86ae69f4216b465"
+    },
+    {
+      "upstream_path": "templates/number-counter/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-counter/index.html.source.txt",
+      "bytes": 24488,
+      "sha256": "bee7bbcc9c50522eb12569c6aec45243315da58c6b18e886f3080e9f53d35ee7",
+      "git_blob": "751b7f254e7f2913bf7473993e54ec191634b3d8"
+    },
+    {
+      "upstream_path": "templates/number-counter/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-counter/meta.json.source.txt",
+      "bytes": 101,
+      "sha256": "06df6bbcd155d47254583da0d025b3c7e1d2d8d4f491996957cd0952de24e4d9",
+      "git_blob": "a2711fbd47cefc44c231b7c9a0a422ac1b3c770d"
+    },
+    {
+      "upstream_path": "templates/number-counter/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-counter/package.json.source.txt",
+      "bytes": 385,
+      "sha256": "89a0777c9b5988cf9970fff9d70d0a5a34a4205c566ee79ffec557e16f37665c",
+      "git_blob": "60a81b57c4050cf4adffd6c55e298268f6d55d3e"
+    },
+    {
+      "upstream_path": "templates/number-counter/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-counter/presets/AI提效.json.source.txt",
+      "bytes": 242,
+      "sha256": "80b771f787813e8bc8ae52a7d89e7f84f5f320eb6ddf56a06e68c7b6c0c2861d",
+      "git_blob": "70b83dd1a91a911666b6f33476de14083f418c41"
+    },
+    {
+      "upstream_path": "templates/number-counter/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-counter/presets/default.json.source.txt",
+      "bytes": 222,
+      "sha256": "b8a326b2c161792ab49047644afdbd0da271b18412394defd5ffc6d67fe68f71",
+      "git_blob": "96989abaee0e8f62d5c817f9464f1ab23f4908f1"
+    },
+    {
+      "upstream_path": "templates/number-counter/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-counter/presets/业务增长.json.source.txt",
+      "bytes": 220,
+      "sha256": "562b1349075377e8959a0b87f0a37e77b6f402858896f9a99ad25c89c80defc9",
+      "git_blob": "5a07cd2188484311df4434c9656db772fa9136f8"
+    },
+    {
+      "upstream_path": "templates/number-impact/AGENTS.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/AGENTS.md.source.txt",
+      "bytes": 5565,
+      "sha256": "0989cf5db4a1a5e0829683a4eaa64100781a9a41cf424bbfa2f87868d577b59c",
+      "git_blob": "684ced94c9a264b7a958772ca81e0ff835c99e05"
+    },
+    {
+      "upstream_path": "templates/number-impact/CLAUDE.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/CLAUDE.md.source.txt",
+      "bytes": 5565,
+      "sha256": "0989cf5db4a1a5e0829683a4eaa64100781a9a41cf424bbfa2f87868d577b59c",
+      "git_blob": "684ced94c9a264b7a958772ca81e0ff835c99e05"
+    },
+    {
+      "upstream_path": "templates/number-impact/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/design.md.source.txt",
+      "bytes": 1424,
+      "sha256": "faa1e0a015c00e05e93b5798ed3c7f68883527741ffdbfc044bbe8d01c5c7efe",
+      "git_blob": "396409967f1523e4eb081fe32c9c460e52775507"
+    },
+    {
+      "upstream_path": "templates/number-impact/hyperframes.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/hyperframes.json.source.txt",
+      "bytes": 278,
+      "sha256": "60430047b7e49e9d03fab28f90dc75da3a0fc79900354582df181d7d2efc1509",
+      "git_blob": "5fb1d6d872f5ecb406008695d86ae69f4216b465"
+    },
+    {
+      "upstream_path": "templates/number-impact/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/index.html.source.txt",
+      "bytes": 25140,
+      "sha256": "6263b7bbaaf628ad8af41f3ed372fb73fc530fdf6edc114f7d72d1f86258d14e",
+      "git_blob": "18a5f7b56751fb7e8b0c69418a55b99202c7efa9"
+    },
+    {
+      "upstream_path": "templates/number-impact/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/meta.json.source.txt",
+      "bytes": 97,
+      "sha256": "e2fd9420f3135fc4152c940c03ce00fa839038c9f63f51325c327dde6fb9ad82",
+      "git_blob": "bb88a21db44eed8b45c3a411e8b488192d5987fd"
+    },
+    {
+      "upstream_path": "templates/number-impact/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/package.json.source.txt",
+      "bytes": 384,
+      "sha256": "5d4c03d37d96da9e8e1ca85a7ad17e6835d0c76695510b5d279acb76c2d485fd",
+      "git_blob": "dce62bf7e3ee6ddef457998fe6e8d08577e66c4e"
+    },
+    {
+      "upstream_path": "templates/number-impact/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/presets/AI提效.json.source.txt",
+      "bytes": 174,
+      "sha256": "8fe5f7eba5b18e3a7c9424d6b82372338ab7db380063e2c5a8c26b00c3743960",
+      "git_blob": "ffcc6d0a96d2018953de8d8eda5b870b1b7a89a1"
+    },
+    {
+      "upstream_path": "templates/number-impact/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/presets/default.json.source.txt",
+      "bytes": 157,
+      "sha256": "a9253541bbac948a3a2b9a7eb74d275ef44c3b8f5b319df4463a01da9868af62",
+      "git_blob": "a235a4c2471bc9e05a856aedd920434fbd208d9c"
+    },
+    {
+      "upstream_path": "templates/number-impact/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/number-impact/presets/业务增长.json.source.txt",
+      "bytes": 171,
+      "sha256": "6b6ee82d8f2f81d42f2c0173fa6fee5f3db5e5acc6121eae14d5fe8d0cfac776",
+      "git_blob": "5482e51b91329b6213779c1118858ea237950c8f"
+    },
+    {
+      "upstream_path": "templates/quote-card/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/quote-card/design.md.source.txt",
+      "bytes": 1758,
+      "sha256": "2aea803595329503f11fa4043fe64ca440bf6e4a9cd88b06c9549c29e2cda4e6",
+      "git_blob": "117a6b2cad5512bf17fc2732235fd42806de29a5"
+    },
+    {
+      "upstream_path": "templates/quote-card/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/quote-card/index.html.source.txt",
+      "bytes": 24235,
+      "sha256": "59b0b619f26d3e8b5b82190296e80eb792e23de0e1dd5f410f6acb3bb047ed53",
+      "git_blob": "df3e98331bfe14c28294b24f9822b6c7d7066160"
+    },
+    {
+      "upstream_path": "templates/quote-card/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/quote-card/meta.json.source.txt",
+      "bytes": 97,
+      "sha256": "bb263bde0de917d218a3cf163e2ab7a136acbb68d47085ae2a9f9685eacb00bb",
+      "git_blob": "fd8a6de580018f87b98abcf249345cc18338ad86"
+    },
+    {
+      "upstream_path": "templates/quote-card/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/quote-card/package.json.source.txt",
+      "bytes": 381,
+      "sha256": "045368d0d81b9ab47caca7a95fc23abcbc901c0d5e71f94a9f05e3d524bb480d",
+      "git_blob": "e6b62f518b24cf8b4880e796bb2a085e0be79638"
+    },
+    {
+      "upstream_path": "templates/quote-card/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/quote-card/presets/default.json.source.txt",
+      "bytes": 273,
+      "sha256": "d35feaa3cd8bfb3af07299eac954fb8c8206c8f12ceeceabdc9ede4777a8a55a",
+      "git_blob": "2387fe43f3a77fb311af883c6a0ff46a7207d8e9"
+    },
+    {
+      "upstream_path": "templates/quote-card/presets/访谈观点.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/quote-card/presets/访谈观点.json.source.txt",
+      "bytes": 243,
+      "sha256": "3c6fd483ed0e31f7aea6dba01a7c720f1fc6f6a3f6cd7cce8f6e17e1ed2f0c44",
+      "git_blob": "6b395f608437542fb120c7a231f12c481d719720"
+    },
+    {
+      "upstream_path": "templates/quote-card/presets/频道立场.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/quote-card/presets/频道立场.json.source.txt",
+      "bytes": 249,
+      "sha256": "6d74cce98bde07d2740e77df322eb59b4f111c04639fcd8871aa1e5148535af6",
+      "git_blob": "1f213ffeed36c173636b63d6ed73a04f285f6e90"
+    },
+    {
+      "upstream_path": "templates/source-citation-card/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/source-citation-card/design.md.source.txt",
+      "bytes": 848,
+      "sha256": "322ae676fea66647247421f443f8fcb86adf958ab977d458de0f887383704293",
+      "git_blob": "e7929a59be05b66e6314fd538bcc4d03f67b86e8"
+    },
+    {
+      "upstream_path": "templates/source-citation-card/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/source-citation-card/index.html.source.txt",
+      "bytes": 23898,
+      "sha256": "42def401f390e2f984edd44126bc6d5763c96d91ce22243489989d8edc126b29",
+      "git_blob": "5c8d504127457f53057edda54f86f48956594b8f"
+    },
+    {
+      "upstream_path": "templates/source-citation-card/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/source-citation-card/meta.json.source.txt",
+      "bytes": 100,
+      "sha256": "0a7d1e278e0c474a20bf22e3bec535552db476aa98ed9b904b01fb5f69c4bf61",
+      "git_blob": "1936d11e69c7d25beffd57dab9a6bf6c2442bd5d"
+    },
+    {
+      "upstream_path": "templates/source-citation-card/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/source-citation-card/package.json.source.txt",
+      "bytes": 347,
+      "sha256": "47b1eae63fb5c22bf65e964ff43978df66e9a587b8b1ef170444afb77b363d9a",
+      "git_blob": "325f0ece2540f3425b60f1f99168aa88a567ef83"
+    },
+    {
+      "upstream_path": "templates/source-citation-card/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/source-citation-card/presets/AI提效.json.source.txt",
+      "bytes": 300,
+      "sha256": "a45f241cd55e2e3b63a75acb27a938c9a93fc845af2df4bc3c08e54f9f1bd909",
+      "git_blob": "475f93b002697cde72919aa7611d1cd09b1da4b1"
+    },
+    {
+      "upstream_path": "templates/source-citation-card/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/source-citation-card/presets/default.json.source.txt",
+      "bytes": 266,
+      "sha256": "8e12a3b8abe8af71354f7db4e0e17d743ae0a3300725e514aeb3ee185cd6ac3f",
+      "git_blob": "5744eab4e8617940317cce17a4bca847411cb05b"
+    },
+    {
+      "upstream_path": "templates/source-citation-card/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/source-citation-card/presets/业务增长.json.source.txt",
+      "bytes": 296,
+      "sha256": "db3c970494ed5e3b5ac5aa9bda8b7d40bab7bc516ace6cf963285c9e16755f3a",
+      "git_blob": "a429e262c827d21c1fb3b894967bb2248bd668d3"
+    },
+    {
+      "upstream_path": "templates/stat-duel/AGENTS.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/AGENTS.md.source.txt",
+      "bytes": 5565,
+      "sha256": "0989cf5db4a1a5e0829683a4eaa64100781a9a41cf424bbfa2f87868d577b59c",
+      "git_blob": "684ced94c9a264b7a958772ca81e0ff835c99e05"
+    },
+    {
+      "upstream_path": "templates/stat-duel/CLAUDE.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/CLAUDE.md.source.txt",
+      "bytes": 5565,
+      "sha256": "0989cf5db4a1a5e0829683a4eaa64100781a9a41cf424bbfa2f87868d577b59c",
+      "git_blob": "684ced94c9a264b7a958772ca81e0ff835c99e05"
+    },
+    {
+      "upstream_path": "templates/stat-duel/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/design.md.source.txt",
+      "bytes": 1388,
+      "sha256": "53b5fddd4fec8ede2536ccbd075cd53b2580f42b6880f60c765de8f48d270651",
+      "git_blob": "a1096b67ee19c9912eb80aeff88971e1514d475a"
+    },
+    {
+      "upstream_path": "templates/stat-duel/hyperframes.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/hyperframes.json.source.txt",
+      "bytes": 278,
+      "sha256": "60430047b7e49e9d03fab28f90dc75da3a0fc79900354582df181d7d2efc1509",
+      "git_blob": "5fb1d6d872f5ecb406008695d86ae69f4216b465"
+    },
+    {
+      "upstream_path": "templates/stat-duel/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/index.html.source.txt",
+      "bytes": 26504,
+      "sha256": "714fe7712ebd148657126176700c6f210209bd458696f8d516510b0ad65ff17a",
+      "git_blob": "f375245956c156d8da831b78a9344aedc395a7ab"
+    },
+    {
+      "upstream_path": "templates/stat-duel/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/meta.json.source.txt",
+      "bytes": 96,
+      "sha256": "4b2cf5aaee8e908e1f63914b19f2764a13ab6b54604f376906632009ffbbe372",
+      "git_blob": "9a2c7e5a85244acb94af775fb55314d68092d597"
+    },
+    {
+      "upstream_path": "templates/stat-duel/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/package.json.source.txt",
+      "bytes": 380,
+      "sha256": "0b8223d71581d25bc59ccf54914c4e63bd6d0a1d4d7d24b2f5508b6610f3edc6",
+      "git_blob": "11a7ab7a175c12cc3d32520d5521c99f4412417e"
+    },
+    {
+      "upstream_path": "templates/stat-duel/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/presets/AI提效.json.source.txt",
+      "bytes": 266,
+      "sha256": "5d9f958b95006cb6df129b4d3fa284af74a53d7c555ac3ff2352b48a2fbb5c38",
+      "git_blob": "d61e97cd29d7f6d45ebe49ea2e364df6e6b2c1bf"
+    },
+    {
+      "upstream_path": "templates/stat-duel/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/presets/default.json.source.txt",
+      "bytes": 245,
+      "sha256": "1da44765061d7e8bb7a22d12c3de63f5c0225f505574d7c475e79d8f5d14f9ad",
+      "git_blob": "066f305e84ec824edc295e8bb91f2b10e4ce992e"
+    },
+    {
+      "upstream_path": "templates/stat-duel/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/stat-duel/presets/业务增长.json.source.txt",
+      "bytes": 270,
+      "sha256": "84994759b7e7d4c08327cda386c3829668315c5b879b8c39221ea4d9c5d5951d",
+      "git_blob": "2b23e6492d1178efcb43a3c47c0864d16d1a6068"
+    },
+    {
+      "upstream_path": "templates/status-split/AGENTS.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/AGENTS.md.source.txt",
+      "bytes": 5565,
+      "sha256": "0989cf5db4a1a5e0829683a4eaa64100781a9a41cf424bbfa2f87868d577b59c",
+      "git_blob": "684ced94c9a264b7a958772ca81e0ff835c99e05"
+    },
+    {
+      "upstream_path": "templates/status-split/CLAUDE.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/CLAUDE.md.source.txt",
+      "bytes": 5565,
+      "sha256": "0989cf5db4a1a5e0829683a4eaa64100781a9a41cf424bbfa2f87868d577b59c",
+      "git_blob": "684ced94c9a264b7a958772ca81e0ff835c99e05"
+    },
+    {
+      "upstream_path": "templates/status-split/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/design.md.source.txt",
+      "bytes": 1389,
+      "sha256": "bb63137532f87a1ceebe15db7d20d6a2b77bdd1f5fe30dd94cb70e95a9d32851",
+      "git_blob": "26fec1a073d287e367c17520f31adf95a37952be"
+    },
+    {
+      "upstream_path": "templates/status-split/hyperframes.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/hyperframes.json.source.txt",
+      "bytes": 278,
+      "sha256": "60430047b7e49e9d03fab28f90dc75da3a0fc79900354582df181d7d2efc1509",
+      "git_blob": "5fb1d6d872f5ecb406008695d86ae69f4216b465"
+    },
+    {
+      "upstream_path": "templates/status-split/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/index.html.source.txt",
+      "bytes": 25058,
+      "sha256": "b96af5f84fa7d0ef2a3f264d85d9229a126b9754b7a855d1438c759d022204b1",
+      "git_blob": "e4a53c2624c2175742079d16e7ea8cf76034f2c9"
+    },
+    {
+      "upstream_path": "templates/status-split/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/meta.json.source.txt",
+      "bytes": 96,
+      "sha256": "82daa5e09132114c79b056790a4097d01303e644b771ee06d45ad5e6bfc16d16",
+      "git_blob": "87b2896120f49d5308b0762f2c99f1ab8919ea9c"
+    },
+    {
+      "upstream_path": "templates/status-split/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/package.json.source.txt",
+      "bytes": 383,
+      "sha256": "ab307fc870da68a50d891356462aaa37dba6fd39c0b01969f790a4c163ecdfd7",
+      "git_blob": "f4a7ff649da3349c048fec7d471ddc5f0c477f7d"
+    },
+    {
+      "upstream_path": "templates/status-split/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/presets/AI提效.json.source.txt",
+      "bytes": 212,
+      "sha256": "6a4cc1925a6d5f9abc527160990954eea660bd1a2240143cf54ba9bf29fe8b4b",
+      "git_blob": "0b820b6e350bd7f184bba0c8f6f84042605c3a6f"
+    },
+    {
+      "upstream_path": "templates/status-split/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/presets/default.json.source.txt",
+      "bytes": 200,
+      "sha256": "6b52f8a7ad0aa4080bb1df6b4089b89e5c251d63f249c65c2d3affc21f4b6b47",
+      "git_blob": "86b369c81ca10460813fc7c4647b5a47ec99c84d"
+    },
+    {
+      "upstream_path": "templates/status-split/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/status-split/presets/业务增长.json.source.txt",
+      "bytes": 206,
+      "sha256": "2248e0e8dd456200df56878e4ddba90b31351144486e74e8ccc965795bed5606",
+      "git_blob": "48556b0a5b70e81fa0aedd74edff2ad7bf85159f"
+    },
+    {
+      "upstream_path": "templates/three-step-flow/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/three-step-flow/design.md.source.txt",
+      "bytes": 1311,
+      "sha256": "027e5f19e15a2d51e3c27f7b251eef115c5e86ef6a49b756077b694efbc290fc",
+      "git_blob": "7dc6edf70be9af1278a20ceea11249c7fa78f96d"
+    },
+    {
+      "upstream_path": "templates/three-step-flow/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/three-step-flow/index.html.source.txt",
+      "bytes": 24957,
+      "sha256": "dd7f8d5c9dbc0219f2879608ca3ba6b004a13baa85181368c7fce2fb7983a09e",
+      "git_blob": "62eb335eef54be90e6beec21726686caf6ecf476"
+    },
+    {
+      "upstream_path": "templates/three-step-flow/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/three-step-flow/meta.json.source.txt",
+      "bytes": 99,
+      "sha256": "e60b96309b11b58145dc196dbf1b042caebe4456e227288921203e8d1ad7e401",
+      "git_blob": "295291cc595cc3207a67bfac72ae8021e42019ef"
+    },
+    {
+      "upstream_path": "templates/three-step-flow/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/three-step-flow/package.json.source.txt",
+      "bytes": 386,
+      "sha256": "df4aa868667896f6d80e8f00a137b183e39168b4b367d57fc8b9616e09737c78",
+      "git_blob": "155dc725eee011385c76e05b64d1449ac795a171"
+    },
+    {
+      "upstream_path": "templates/three-step-flow/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/three-step-flow/presets/AI提效.json.source.txt",
+      "bytes": 291,
+      "sha256": "ce2be15530bb7c1b756d70493089c2128ea402b2f7b09463238120ac8316d23e",
+      "git_blob": "ff4c210cabee609edbd667e54c3aa2d993c71bcb"
+    },
+    {
+      "upstream_path": "templates/three-step-flow/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/three-step-flow/presets/default.json.source.txt",
+      "bytes": 284,
+      "sha256": "85d890bf025ae259ff029a8bcc8b6257f43a2df7dc13f7982d207dd4c83bf0c6",
+      "git_blob": "ecb3b78dea1ba90083e972fed3b5df8b97be62be"
+    },
+    {
+      "upstream_path": "templates/three-step-flow/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/three-step-flow/presets/业务增长.json.source.txt",
+      "bytes": 290,
+      "sha256": "ccba5fb062f3d0e00befab9e88bea5c792e5466250e3a3100b475eb30e972945",
+      "git_blob": "9db7da6d152bd8ed75e17eb95b4eafbd4e3c8081"
+    },
+    {
+      "upstream_path": "templates/timeline-scan/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/timeline-scan/design.md.source.txt",
+      "bytes": 1323,
+      "sha256": "bffecb350b43ce2ddddae3916af92553c7a6e00d1219003a737ca2666651d860",
+      "git_blob": "2619923cd431184bd8de9162f846cb07eda0d552"
+    },
+    {
+      "upstream_path": "templates/timeline-scan/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/timeline-scan/index.html.source.txt",
+      "bytes": 24878,
+      "sha256": "c5169e11552f07bd88357c362e849c985c8c1954577973352412ced1573928a5",
+      "git_blob": "cf5dce2dca14c972c712c8a32d3e0902e222ba31"
+    },
+    {
+      "upstream_path": "templates/timeline-scan/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/timeline-scan/meta.json.source.txt",
+      "bytes": 100,
+      "sha256": "519573522a6338053f04130867484bab5bf08f205b846da2e9b7b149e2c8b268",
+      "git_blob": "e6abc3c8f5ef18b37553c13e1fcd550c8323fe28"
+    },
+    {
+      "upstream_path": "templates/timeline-scan/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/timeline-scan/package.json.source.txt",
+      "bytes": 384,
+      "sha256": "bb693f1930c813dba3a494e37ef9f7acb7ff6141f36398fa3a88d44c9fb4ea6e",
+      "git_blob": "755533ab002064132425011862b8450a3c95a3e2"
+    },
+    {
+      "upstream_path": "templates/timeline-scan/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/timeline-scan/presets/AI提效.json.source.txt",
+      "bytes": 233,
+      "sha256": "7d064da55b7892b1bd94c2b31d03944758adf83c427ae1f294aa2d3c7661552c",
+      "git_blob": "5a998a83dca3aa60962431d334d1735b5153a8a8"
+    },
+    {
+      "upstream_path": "templates/timeline-scan/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/timeline-scan/presets/default.json.source.txt",
+      "bytes": 215,
+      "sha256": "e434804a05fa7539e3af547a40b15334167607d5baa5a2b8353f4dd66aa8a1ac",
+      "git_blob": "e04914027d985b43d0a2f0cdbda0075c552ad913"
+    },
+    {
+      "upstream_path": "templates/timeline-scan/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/timeline-scan/presets/业务增长.json.source.txt",
+      "bytes": 227,
+      "sha256": "1b3818013208f51cb0af40aeb0ba196a9588fcea8f182235316469dcfa971d59",
+      "git_blob": "59f73f3b8aac313355b689b99187f99c02b1dfbf"
+    },
+    {
+      "upstream_path": "templates/top-rank-list/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/top-rank-list/design.md.source.txt",
+      "bytes": 1035,
+      "sha256": "3b94d475a74e86118675140a392923bf9c10114b60523b0cce8ba9977328cd64",
+      "git_blob": "1315eed4631e83ad1f84713b8f7456067db44b1d"
+    },
+    {
+      "upstream_path": "templates/top-rank-list/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/top-rank-list/index.html.source.txt",
+      "bytes": 24929,
+      "sha256": "61f55ba958f681b7ab0aaf6767acbf8d344eb882f7915f0a0447b5559c5e1055",
+      "git_blob": "e7e433a5a1af926c09dea9db292be2b75f8934ff"
+    },
+    {
+      "upstream_path": "templates/top-rank-list/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/top-rank-list/meta.json.source.txt",
+      "bytes": 85,
+      "sha256": "1ede04035d6413af5cf9aa1a00931dbf61317e3567f9fe738626290b3e3d68aa",
+      "git_blob": "5a8ae467e1963cff753f7ca56b7d543ea3824bd9"
+    },
+    {
+      "upstream_path": "templates/top-rank-list/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/top-rank-list/package.json.source.txt",
+      "bytes": 340,
+      "sha256": "57973757542e56a36791b65c4495875bd926848d1e1bb03e039cd0ed81e8eb99",
+      "git_blob": "0c31e348a520accee77d82e7b89ddacf7112c3e5"
+    },
+    {
+      "upstream_path": "templates/top-rank-list/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/top-rank-list/presets/AI提效.json.source.txt",
+      "bytes": 314,
+      "sha256": "81099341071d26d9f410d5757c0a5ed8e4d7738c7407912af312ec81f361d80b",
+      "git_blob": "53f43b85aed74c29915d2a080c162051563dba76"
+    },
+    {
+      "upstream_path": "templates/top-rank-list/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/top-rank-list/presets/default.json.source.txt",
+      "bytes": 293,
+      "sha256": "7b2616bf925e159009f82b6ba1ec2e276e28e221c8b412ec52a8aef19671ed2a",
+      "git_blob": "338529233cc37f6f31bd3379b6c1edf852e21298"
+    },
+    {
+      "upstream_path": "templates/top-rank-list/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/top-rank-list/presets/业务增长.json.source.txt",
+      "bytes": 316,
+      "sha256": "ac79a525f33427990622e375ed603ca4fd4dd7560ac87e646db4725d35324570",
+      "git_blob": "12021014f17d1b3f8a4470d0fa3dd19a92655e9a"
+    },
+    {
+      "upstream_path": "templates/turning-point-line/design.md",
+      "path": "vendor/motion-v2/motion-library/source/templates/turning-point-line/design.md.source.txt",
+      "bytes": 1002,
+      "sha256": "b99c68050c795d7c68307486fc052e65e41fc110c91f5478e6757644b8a18778",
+      "git_blob": "bc1ddbcc794e0fc8eaa2efe20a19c44359093e2e"
+    },
+    {
+      "upstream_path": "templates/turning-point-line/index.html",
+      "path": "vendor/motion-v2/motion-library/source/templates/turning-point-line/index.html.source.txt",
+      "bytes": 25202,
+      "sha256": "8be87d495c1fa825b82728110184dbe39e384bff6565ffcec9a5a8b0170e2ce0",
+      "git_blob": "2ccc277997d043fba0d60a94545f20109151afe0"
+    },
+    {
+      "upstream_path": "templates/turning-point-line/meta.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/turning-point-line/meta.json.source.txt",
+      "bytes": 92,
+      "sha256": "f3414e319658705e34af543d6ab19eb179ad9d9895f22f14aa40886d95fc641f",
+      "git_blob": "e91fca07546b1ae0b8ea0a0fbcdcc06e12153533"
+    },
+    {
+      "upstream_path": "templates/turning-point-line/package.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/turning-point-line/package.json.source.txt",
+      "bytes": 345,
+      "sha256": "58be6ba1397fd0885d7e800f64cc6ac5ae123233d0b30d0ee08f4ed90f1c339e",
+      "git_blob": "c1eb38853fcd4a6aae1ae9ee549ad4c8bd911712"
+    },
+    {
+      "upstream_path": "templates/turning-point-line/presets/AI提效.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/turning-point-line/presets/AI提效.json.source.txt",
+      "bytes": 282,
+      "sha256": "816a768463e4002e5cee530fc152d6e7e062cdbae10637b897504fde408b7619",
+      "git_blob": "bfd0d81342740e2cdb6c04c2d4d23077b12432a2"
+    },
+    {
+      "upstream_path": "templates/turning-point-line/presets/default.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/turning-point-line/presets/default.json.source.txt",
+      "bytes": 251,
+      "sha256": "ab0f5cad8b58c78c22bde6cb61236f70b3920ce98371bb4b6dd9e9f2fdf26683",
+      "git_blob": "8db06badb1fda0cecdfd0da8d16077c3c8086b80"
+    },
+    {
+      "upstream_path": "templates/turning-point-line/presets/业务增长.json",
+      "path": "vendor/motion-v2/motion-library/source/templates/turning-point-line/presets/业务增长.json.source.txt",
+      "bytes": 276,
+      "sha256": "86218146c96e1fd317cca79c1269a873214df1376a76695371c86d0fc3ea7de5",
+      "git_blob": "38c0343eeb09e27cdcbb1c203928ecbc3181c36e"
+    }
+  ]
+}

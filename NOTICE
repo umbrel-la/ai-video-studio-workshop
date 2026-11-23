@@ -1,0 +1,24 @@
+AI Video Editing Skills bundle
+
+Contains unmodified public HyperFrames skills from:
+https://github.com/heygen-com/hyperframes
+Upstream commit: 0b531bc7a4635b8ede475522f21bfc451f0c6320
+License: Apache License, Version 2.0. See LICENSE.
+Original copyright and license notices in individual source files remain applicable.
+
+Additional packaging, Russian quick-start instructions, setup scripts and
+the ai-video-editing workflow skill: umbrel-la, 2026, Apache-2.0.
+
+Bundled sample sound effects and fonts are public upstream resources, not
+the author's private video/audio materials. Local source files of the reel,
+voice recordings, screenshots, QR codes and rendered video are not included.
+
+HyperFrames, HeyGen, Codex and FFmpeg are names of their respective projects.
+This is an independent bundle, not an official endorsement.
+
+Workshop studio additions, 2026, Apache-2.0.
+Includes curated public motion source snapshots with their original licenses
+and notices under vendor/motion-v2; see references/motion-sources.md and INDEX.json.
+The local sound-sheet helper is copyright AgentsORG, MIT, with its license
+in tools/motion-sound/LICENSE.txt. Fonts retain their OFL notices.
+No Git history of another studio was imported.

@@ -1,0 +1,8 @@
+{
+  "id":"technical-example", "illustration":true,
+  "shots":[
+    {"id":"S01", "takeaway":"The viewer sees a process with three steps", "truth_source":"Illustration: no real service result claimed", "transition":"line-reveal"},
+    {"id":"S02", "takeaway":"The viewer sees a sample comparison", "truth_source":"Synthetic demonstration values, labelled in the frame", "transition":"match-cut", "camera":"push", "camera_reason":"Keep the comparison labels readable"},
+    {"id":"S03", "takeaway":"The same shape resolves into the takeaway", "truth_source":"Illustration: no real product UI", "transition":"morph"}
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Учебная видеостудия"
+  short_description: "Монтаж, motion-приёмы и продолжение по STATE"
+  default_prompt: "Используй $workshop-studio, чтобы подготовить проект и смонтировать ролик из моих записей."

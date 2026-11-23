@@ -1,0 +1,3 @@
+interface:
+  display_name: "Animated Diagrams: объясняющие схемы"
+  short_description: "Анимирует SVG-схемы, процессы и последовательности внутри Hyp"

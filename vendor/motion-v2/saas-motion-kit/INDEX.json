@@ -1,0 +1,863 @@
+{
+  "id": "saas-motion-kit",
+  "requested_repository": "tugrawork-creator/saas-motion-kit",
+  "repository": "tugrawork-creator/saas-motion-kit",
+  "commit": "bc7a414d6b66ceb09dfaa511e6237f382571bc84",
+  "inert_sources": true,
+  "files": [
+    {
+      "upstream_path": ".claude/skills/saas-motion-video/SKILL.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/.claude/skills/saas-motion-video/SKILL.md.source.txt",
+      "bytes": 5350,
+      "sha256": "bbed3fd512fa697de372ce4ed4be471fbe7801da2a7d5817daad732c4c173fbd",
+      "git_blob": "b01d25ad36b38fe50d1ea26dcdb671e03104ed92"
+    },
+    {
+      "upstream_path": "LICENSE",
+      "path": "vendor/motion-v2/saas-motion-kit/LICENSE.txt",
+      "bytes": 1241,
+      "sha256": "acb4e1b25cb111c0438cd6b7664b11993893791369c1a9b6a34dc48e60363cad",
+      "git_blob": "e4394d41058dc98b9aae01bfef222d43faec945c"
+    },
+    {
+      "upstream_path": "creative/README.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/creative/README.md.source.txt",
+      "bytes": 5205,
+      "sha256": "e92c9b9ea90d3a69902a1ec7a199ddb107c4b8e8a4de52c36c7ecf4bc345fcee",
+      "git_blob": "c7a91cf4787fae536313c6762c677693e98c37f7"
+    },
+    {
+      "upstream_path": "creative/component-forge.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/creative/component-forge.md.source.txt",
+      "bytes": 3663,
+      "sha256": "7cca751598a2c67b0b0d1e83a7cee2b61e7a0a3f6a18f57ed9be7c67754147dd",
+      "git_blob": "7d1977c98f0b83f0eea9c6d5a9af69447cd84c18"
+    },
+    {
+      "upstream_path": "creative/human-layer.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/creative/human-layer.md.source.txt",
+      "bytes": 5669,
+      "sha256": "a3f38b47adca331eb68e0a8851882738fc01c4ba23c870c5701a460660d76fc1",
+      "git_blob": "351dba0f3e6cc8dd1d7ff1eec91752feaeb028e0"
+    },
+    {
+      "upstream_path": "creative/references.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/creative/references.md.source.txt",
+      "bytes": 3097,
+      "sha256": "1ab9388dec78982433669951107588fcf71016b689d3786b253f008401eef7c0",
+      "git_blob": "cd7e4462482cc26112c594e8f0657de7783a0e2b"
+    },
+    {
+      "upstream_path": "creative/tone-matrix.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/creative/tone-matrix.md.source.txt",
+      "bytes": 4110,
+      "sha256": "3f1db0749294c0eead6fad04339dd30f1ac5ba886e604f75e1304768ab72267e",
+      "git_blob": "d94419daf05e56a1fb9ba7ef28c57d137ff918d0"
+    },
+    {
+      "upstream_path": "creative/transition-atlas.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/creative/transition-atlas.md.source.txt",
+      "bytes": 12543,
+      "sha256": "bf50e0c95eca0303822f12af8d879e18ad085d2842d2296d909c5477331ace10",
+      "git_blob": "37ad43b2375996ba315ba46c77fbaa6f1edc5a39"
+    },
+    {
+      "upstream_path": "creative/variety-rules.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/creative/variety-rules.md.source.txt",
+      "bytes": 2864,
+      "sha256": "5fece98fe348b459a5b14736564cbdb9084a92b3580a2e8a5d0595bc308b5bf4",
+      "git_blob": "595250a094c1e4bc1770b5f73f618f32385777b0"
+    },
+    {
+      "upstream_path": "docs/themes/data/001.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/001.json.source.txt",
+      "bytes": 2622,
+      "sha256": "3f3a5b44ce3f8f1dfb0f209050daa88b6f8a23db4e07681c75f9e06e85a48408",
+      "git_blob": "95b924a6dbe7bb60b78412cec1525fe70f739258"
+    },
+    {
+      "upstream_path": "docs/themes/data/002.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/002.json.source.txt",
+      "bytes": 2508,
+      "sha256": "aec03c222611baea6b4b9348e406bc597e81dd51f6a1d1b92836233b54001eae",
+      "git_blob": "118fc98ed525b1e1de1e8cc3d829bd3091d618d1"
+    },
+    {
+      "upstream_path": "docs/themes/data/003.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/003.json.source.txt",
+      "bytes": 2763,
+      "sha256": "24296da359f92061e65d12bd792ea71f62cac82b9a9acd08137ff06b0121be3d",
+      "git_blob": "2aff6a5d8e2672cef7aea9c309fa6c5662a2ec94"
+    },
+    {
+      "upstream_path": "docs/themes/data/004.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/004.json.source.txt",
+      "bytes": 2745,
+      "sha256": "d6f3a853ed10f8bb3c247c58fbc18b36b89082a6a115269d34290681ec62f68f",
+      "git_blob": "a3f4a9747430b2697e25db5edc1385847e800630"
+    },
+    {
+      "upstream_path": "docs/themes/data/005.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/005.json.source.txt",
+      "bytes": 2637,
+      "sha256": "2b40f206143df1c9af8ca882a7a11217b59f15693bc7447997cef46bc7311564",
+      "git_blob": "5e6c620c067566c0e533fec28b5a01a19708be20"
+    },
+    {
+      "upstream_path": "docs/themes/data/006.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/006.json.source.txt",
+      "bytes": 2626,
+      "sha256": "5e6cc49cece9e03ea8fbf1a92a52db35a1276689e2b5ed241df63c2a228a33ec",
+      "git_blob": "074d84d585bf640a1b44b49d8a8d71eaef13bb18"
+    },
+    {
+      "upstream_path": "docs/themes/data/007.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/007.json.source.txt",
+      "bytes": 2559,
+      "sha256": "e95a37e9242618844b47290c94e9bc9b2878c10d4f06975c91a1ef2a77feb765",
+      "git_blob": "07933bf7da739b399f20dd8d7cf6c3fae352ed22"
+    },
+    {
+      "upstream_path": "docs/themes/data/008.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/008.json.source.txt",
+      "bytes": 2489,
+      "sha256": "9f5395268f8697dac2f251b251c820c8b23e74823c0b433d166f2c8593ad4f94",
+      "git_blob": "deb94f774cf8c6a9ea9e93f100ecd347cee350a3"
+    },
+    {
+      "upstream_path": "docs/themes/data/009.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/009.json.source.txt",
+      "bytes": 2649,
+      "sha256": "c387f808913b660dec85a75fabff9c6787ed4a7698b6a191b163e00762b619e1",
+      "git_blob": "4b167d488d5b343f64e0e93943e9b364c6d5021a"
+    },
+    {
+      "upstream_path": "docs/themes/data/010.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/010.json.source.txt",
+      "bytes": 2771,
+      "sha256": "222bc431c8f1b491c17d18f833e07f865a0c4e74aeefa6a93d0e147ccea3799e",
+      "git_blob": "2b8a90d9789e630c4f7dc6a7f6a2f93a69ebe3fe"
+    },
+    {
+      "upstream_path": "docs/themes/data/011.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/011.json.source.txt",
+      "bytes": 2398,
+      "sha256": "95ef76d8f3945899d9979b44222586401e3f5303467b01a7e8ef336efd518c1a",
+      "git_blob": "6728921623a96fcdf506214f1b670adbfdef2811"
+    },
+    {
+      "upstream_path": "docs/themes/data/012.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/012.json.source.txt",
+      "bytes": 2666,
+      "sha256": "40360d4267118f23d6af24a18c9b0e1cb5c9832127c2254c198982794c170a01",
+      "git_blob": "c281be43798df07eeb635aedff8af1c2ba7aeba1"
+    },
+    {
+      "upstream_path": "docs/themes/data/013.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/013.json.source.txt",
+      "bytes": 2641,
+      "sha256": "467e7d99cd02047659b84bf7ade6a1bcc9d15de9505982da9a9c53490ae4a7c4",
+      "git_blob": "54e88e19c67db9d42c69447c471219aa1edd09ce"
+    },
+    {
+      "upstream_path": "docs/themes/data/014.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/014.json.source.txt",
+      "bytes": 2727,
+      "sha256": "557de2219cf0fe627caac155130d4e5f95bedec3254d06117d1b6245c5a67ca6",
+      "git_blob": "918ba86e03085563d425572b20769bd845b638b6"
+    },
+    {
+      "upstream_path": "docs/themes/data/015.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/015.json.source.txt",
+      "bytes": 2676,
+      "sha256": "7ee9ddff47afc3c0a5b1e2fbf7b0d58a009bbe2a084ab0aca0d58d6618ebef4f",
+      "git_blob": "04fb78b581605a40e0d73d32a1364d3fe882d6e3"
+    },
+    {
+      "upstream_path": "docs/themes/data/016.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/016.json.source.txt",
+      "bytes": 2688,
+      "sha256": "7c47372818993dd27fceb081712c919dc744b451863c20e6003e9fc6dcfc7bde",
+      "git_blob": "c260aeec35710221c1448df1acf39df51fa66d23"
+    },
+    {
+      "upstream_path": "docs/themes/data/017.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/017.json.source.txt",
+      "bytes": 2813,
+      "sha256": "c8eeebb557dd28aa72a184762899a8cc664acd435bcddb726488da6a1d5c217b",
+      "git_blob": "acb5ca5577319d2deb71f786e8dcb8074de94f11"
+    },
+    {
+      "upstream_path": "docs/themes/data/018.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/018.json.source.txt",
+      "bytes": 2784,
+      "sha256": "86ad6d60a67ce838efb191fc45e9bdd92881d3cb2dca535287ee7a9bac2c6a2d",
+      "git_blob": "9aa3dcddfff34693a008ddc84542d2a587eec47f"
+    },
+    {
+      "upstream_path": "docs/themes/data/019.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/019.json.source.txt",
+      "bytes": 2616,
+      "sha256": "c19d53746d46a06f451afae2aebb250c1620cf82e5142da982266fe0c6ba80f7",
+      "git_blob": "b7c51798d40aa80f658604c11d471b384498a674"
+    },
+    {
+      "upstream_path": "docs/themes/data/020.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/020.json.source.txt",
+      "bytes": 2780,
+      "sha256": "f00ce7e620728490b7c7dac9f58a45c1195aa7e3a1001047a932323d328a4a54",
+      "git_blob": "25150069741291cf0db63f17c286f1aaac189698"
+    },
+    {
+      "upstream_path": "docs/themes/data/021.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/021.json.source.txt",
+      "bytes": 3025,
+      "sha256": "51d30e76f80bc0b33dd4947486f0bb0bda40e932b057f7b2afcc03097c039c2c",
+      "git_blob": "198edbecbf33a01b1de5944877fc4fff4425a8e8"
+    },
+    {
+      "upstream_path": "docs/themes/data/022.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/022.json.source.txt",
+      "bytes": 2997,
+      "sha256": "144d155e754f29a045401a3fe44869358f922ec62fd4d4cdfa975bf7ad5ada68",
+      "git_blob": "6eeec87f35ffd7c1478626286942d92a6ad2bb7b"
+    },
+    {
+      "upstream_path": "docs/themes/data/023.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/023.json.source.txt",
+      "bytes": 2927,
+      "sha256": "cbdf8027d218c6b281acca9b145bb57b2c6b1fffdd5fa6eceb26a9e040b4d66e",
+      "git_blob": "4c0b20ab1b2309472f421895012df8d40a4f0d36"
+    },
+    {
+      "upstream_path": "docs/themes/data/024.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/024.json.source.txt",
+      "bytes": 2870,
+      "sha256": "f7f412e5c3ee95d174ccbe33103f669c8c6404e508296d710dd69b8917fdf9b0",
+      "git_blob": "56b9b39fb661076992903a9057d1866b24fb3519"
+    },
+    {
+      "upstream_path": "docs/themes/data/025.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/025.json.source.txt",
+      "bytes": 2864,
+      "sha256": "51142e190ca1b8452e84ccdf73c6a626beb6e0d334013f6c0caa42829381ad65",
+      "git_blob": "0a0bd3160508a5f391eeab513a622fef6dc142d6"
+    },
+    {
+      "upstream_path": "docs/themes/data/026.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/026.json.source.txt",
+      "bytes": 2884,
+      "sha256": "b4d9e71c2d4e98a65bced5c6c6d8c995ff87163befcdc5ace27e1989559219b9",
+      "git_blob": "ebf4a3c3498444514189a8a8f4430d518f07fc98"
+    },
+    {
+      "upstream_path": "docs/themes/data/027.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/027.json.source.txt",
+      "bytes": 2827,
+      "sha256": "3b892fedf7ae20a13957e66e2b5bfe1d0b73817dae9c0b0c2745eb88487755ef",
+      "git_blob": "955f9f87133908008c8b02ffe8074eac0c42d5b6"
+    },
+    {
+      "upstream_path": "docs/themes/data/028.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/028.json.source.txt",
+      "bytes": 2882,
+      "sha256": "9e1588a81f0c8e68e2a081859b12246cf37df5a6b1ea0003b63af38f0651b73f",
+      "git_blob": "b8573cd2bb66d161bc65b81c1490b26fdd196347"
+    },
+    {
+      "upstream_path": "docs/themes/data/029.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/029.json.source.txt",
+      "bytes": 2925,
+      "sha256": "6d798acc62ecccc24cbee68c057d6f37fe614c60fad1e35228f15bc0646c21e6",
+      "git_blob": "6816511a202652755263c8ce70e304d157e1cd4e"
+    },
+    {
+      "upstream_path": "docs/themes/data/030.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/030.json.source.txt",
+      "bytes": 2952,
+      "sha256": "0e85daf3786d60311eebb35d43a57634d7ab567cb91ff7b2b573873fe8c3b3f0",
+      "git_blob": "f54424cfcaaf49c751fd18edb62b80d819d707ce"
+    },
+    {
+      "upstream_path": "docs/themes/data/031.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/031.json.source.txt",
+      "bytes": 3071,
+      "sha256": "007333882b6d7f21beac2cdc7c3ac101ec6ce8150224fcca368a73b368d5f783",
+      "git_blob": "63c59f70e6c4e5c1c8d70a14c3e8402fa2eb0a63"
+    },
+    {
+      "upstream_path": "docs/themes/data/032.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/032.json.source.txt",
+      "bytes": 3056,
+      "sha256": "cf43ae4108d60fc6651b38112a4b9b41ff9ea874d14179e8421dfd23baa765d5",
+      "git_blob": "217b6478ab622f073beb0cc9843ba6b6a892db2b"
+    },
+    {
+      "upstream_path": "docs/themes/data/033.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/033.json.source.txt",
+      "bytes": 2887,
+      "sha256": "0955df78bf7196fa8527412f0c39831af7cd9323df1aeacc56245d86bb6ab2cd",
+      "git_blob": "ad2a2a38b2b1e3d14755f34c648843205dd59432"
+    },
+    {
+      "upstream_path": "docs/themes/data/034.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/034.json.source.txt",
+      "bytes": 2928,
+      "sha256": "36310cdb2235e034461e7a5be1024cb85526dc0c903cb02466fa9534d180987f",
+      "git_blob": "fd8c676458a2290f8b6072772cb512aa90bc7812"
+    },
+    {
+      "upstream_path": "docs/themes/data/035.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/035.json.source.txt",
+      "bytes": 3057,
+      "sha256": "623bfec09af62cfe7aa827359f82bed16f1c240f05954d25ef0f1c7ddbc4d439",
+      "git_blob": "ac5feabe9808a4330da85e9287b1a0d3397f9623"
+    },
+    {
+      "upstream_path": "docs/themes/data/036.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/036.json.source.txt",
+      "bytes": 2854,
+      "sha256": "2614dd3b776c36e8598998f8023c8473afaad402ae6854d981c3302707aeba2e",
+      "git_blob": "bea6cbb7138a3fb165f1224dc0897a7043cb8e83"
+    },
+    {
+      "upstream_path": "docs/themes/data/037.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/037.json.source.txt",
+      "bytes": 3017,
+      "sha256": "8e068f9338b56d282d29a392482110b4a578deaa730a4fc3e865c7b024f59e8f",
+      "git_blob": "a1bb09e6f2f7480ae3badce1febec94bb5322f4c"
+    },
+    {
+      "upstream_path": "docs/themes/data/038.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/038.json.source.txt",
+      "bytes": 2993,
+      "sha256": "3deb91e069398680a96840d4fbc90d623b24c59871d908e22599006ddaa7f10d",
+      "git_blob": "feed2c2df43517090144cffd4b3e60b7dca9149a"
+    },
+    {
+      "upstream_path": "docs/themes/data/039.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/039.json.source.txt",
+      "bytes": 3038,
+      "sha256": "eb33729d7a997fdcae31abee7a08bd435459fed38c778a46b5e2344c96fb936c",
+      "git_blob": "663517f7b5591324d035e8d447904f5cb9c5ad95"
+    },
+    {
+      "upstream_path": "docs/themes/data/040.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/040.json.source.txt",
+      "bytes": 2990,
+      "sha256": "682e4b86210332c73bde20e2a636ac1854521cc888567e94e18954861268f93c",
+      "git_blob": "a6f8656988dc36d3ea119cd02b98aca4b7306d44"
+    },
+    {
+      "upstream_path": "docs/themes/data/041.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/041.json.source.txt",
+      "bytes": 2755,
+      "sha256": "a6d562f467cdfa1c8a0f958f1dbd13db53f913883a76902859a056b5d520352e",
+      "git_blob": "584a8cdc8e8be71ea3455d4022096f99bb0d65e0"
+    },
+    {
+      "upstream_path": "docs/themes/data/042.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/042.json.source.txt",
+      "bytes": 2736,
+      "sha256": "e155b6cd92e2d78cc99f667b6b0b07c46c9320ed9bfe127f1efe5060e450646b",
+      "git_blob": "54713f781b528d584225ce5043817bb790a340bc"
+    },
+    {
+      "upstream_path": "docs/themes/data/043.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/043.json.source.txt",
+      "bytes": 2629,
+      "sha256": "7209f2c48b36ce12230f6b40fed1a4b302c9d6fb0503e7f284835f6026ba4417",
+      "git_blob": "19aef8937d0aaad988841453b405b214dc2ee11b"
+    },
+    {
+      "upstream_path": "docs/themes/data/044.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/044.json.source.txt",
+      "bytes": 2562,
+      "sha256": "947a93d80621b8457ea89e6a7389b176699b7b47fb249aac6cd825b5f488f840",
+      "git_blob": "b8b11da73ec7828f0816076522c5d94969533b03"
+    },
+    {
+      "upstream_path": "docs/themes/data/045.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/045.json.source.txt",
+      "bytes": 2747,
+      "sha256": "dc7179e993a85fc32390740e97ff3774a901286030934b96ca1f24aaf563a171",
+      "git_blob": "0e281fa48ae2012ff211522837bcf3c29ab4115b"
+    },
+    {
+      "upstream_path": "docs/themes/data/046.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/046.json.source.txt",
+      "bytes": 2948,
+      "sha256": "952b987ba8db49067f9a5fb802d9bcee6b854a285fcbeb216dd407a247518eb1",
+      "git_blob": "6b43e10cd4c7e4d40ccde403951176d88e0f6b0d"
+    },
+    {
+      "upstream_path": "docs/themes/data/047.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/047.json.source.txt",
+      "bytes": 2628,
+      "sha256": "93b3cffaccd277a51c5f21da6ef732077bf8f8cb43e3675f2a10dbf1ee560139",
+      "git_blob": "c6d185e4a347b1d7bc6ebbd78cdb9201db38a70e"
+    },
+    {
+      "upstream_path": "docs/themes/data/048.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/048.json.source.txt",
+      "bytes": 2712,
+      "sha256": "009c5dad558d20ed37f6ca8e44eeace4f09352a51d0e943221d083274443cec6",
+      "git_blob": "ec817028de0decb7d5f5d9ceaf1c130738950653"
+    },
+    {
+      "upstream_path": "docs/themes/data/049.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/049.json.source.txt",
+      "bytes": 2817,
+      "sha256": "be4abbf4aa44b9d8bc441ac1b43171b4684f6ded52257a9db6990eea031c2f3d",
+      "git_blob": "f581c53cb8f46f889ca49975644c70911920b651"
+    },
+    {
+      "upstream_path": "docs/themes/data/050.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/050.json.source.txt",
+      "bytes": 2740,
+      "sha256": "ee9d8ee5638b3008f62fb63a1f293a6e3a85950f97c6d1f76afeda5be41b32b5",
+      "git_blob": "5142402f45335367f3f70f6abf3c9db36a70c28f"
+    },
+    {
+      "upstream_path": "docs/themes/data/051.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/051.json.source.txt",
+      "bytes": 3290,
+      "sha256": "2111279f1d6673ace27258608ae3e1303f54725aa132d7febcde67d3dd517aad",
+      "git_blob": "7f3b8414aa4c2c65d6a3cc8bb289e59e220e4af5"
+    },
+    {
+      "upstream_path": "docs/themes/data/052.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/052.json.source.txt",
+      "bytes": 3154,
+      "sha256": "c482ba67896bf5bd39d6249263b99a7cfc6d438c2edf0de71c8a632c3cb42dd0",
+      "git_blob": "9489cefb10e198f4ca301eb57d6d5dbfc4ba6a00"
+    },
+    {
+      "upstream_path": "docs/themes/data/053.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/053.json.source.txt",
+      "bytes": 3173,
+      "sha256": "2ee721ab19c9107bb0c8b96c0e6d8ee9d425059d597949de68e0b722c0f48f4f",
+      "git_blob": "0e59f0ff2da77a2260c3d5789b5a92b835eb4dee"
+    },
+    {
+      "upstream_path": "docs/themes/data/054.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/054.json.source.txt",
+      "bytes": 2900,
+      "sha256": "ac63bec8af92e2809c26b711018695fd95e89d47c3322b82d953be1264820397",
+      "git_blob": "249604b78b7d9509e233a51646ec5430715623c2"
+    },
+    {
+      "upstream_path": "docs/themes/data/055.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/055.json.source.txt",
+      "bytes": 2819,
+      "sha256": "9f2f06306666fe32644ee531884001cf2ffc6b28526a80c52d1e697f937a9c1b",
+      "git_blob": "6b1e8168006bd32f29c7c4f9be359ea4a0224c7b"
+    },
+    {
+      "upstream_path": "docs/themes/data/056.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/056.json.source.txt",
+      "bytes": 3016,
+      "sha256": "c41f3254666b0ab1879c65bc2e359044077e6939c83e522ef83848a688cb3abc",
+      "git_blob": "5e2d2a12da0cd4964e3d8e9ac158cb276120d2fe"
+    },
+    {
+      "upstream_path": "docs/themes/data/057.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/057.json.source.txt",
+      "bytes": 3072,
+      "sha256": "ad2f21c08ccdb39f0f87730be0292cf0174a884abde2ee54a8414b9acb6d59b0",
+      "git_blob": "44f74cb00f5a507690a2a02935299d43019b00fa"
+    },
+    {
+      "upstream_path": "docs/themes/data/058.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/058.json.source.txt",
+      "bytes": 3096,
+      "sha256": "c45c466de6f066d442cd8ae0d9524400de6e2d2009d1fadf18c993bd2232ef07",
+      "git_blob": "09f4d1053defa93b3a2b2c17b10496a6d5ff5fdc"
+    },
+    {
+      "upstream_path": "docs/themes/data/059.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/059.json.source.txt",
+      "bytes": 3052,
+      "sha256": "6aa28c5483a7e4dda25c49154ba05d13f08bdba2c139a15fd6e29cb7206579b7",
+      "git_blob": "5f50cfddce16d267d6f3c1c36834f250858e94bf"
+    },
+    {
+      "upstream_path": "docs/themes/data/060.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/060.json.source.txt",
+      "bytes": 3015,
+      "sha256": "852236ffdb8d91bfc63b4b38e35cabc708cae8b8aaa979bc3ba007067e290e2a",
+      "git_blob": "06ed6246c75ecb8a6754482afe8b71910a872ada"
+    },
+    {
+      "upstream_path": "docs/themes/data/061.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/061.json.source.txt",
+      "bytes": 3167,
+      "sha256": "ac12bc5903be4525ddf8a00eafa7df88693c9a64309d510100abc75be62747e9",
+      "git_blob": "cce7db57d035d452d72372ac304644c3c595e4ee"
+    },
+    {
+      "upstream_path": "docs/themes/data/062.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/062.json.source.txt",
+      "bytes": 3118,
+      "sha256": "7e2bf30dad0e4cec1fd8e54f6bd008357b28ecb4c827fef9012356c6a155918d",
+      "git_blob": "2486b440dce6d1e9640cee62316b6c88342fd7e9"
+    },
+    {
+      "upstream_path": "docs/themes/data/063.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/063.json.source.txt",
+      "bytes": 2652,
+      "sha256": "46e6694082e6b61e24d4e9f85e2c799c18f9c062d01aa876bca2c6053b8a134c",
+      "git_blob": "ef6d46e4465bc6a88bb5822c1fed1057ce494a53"
+    },
+    {
+      "upstream_path": "docs/themes/data/064.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/064.json.source.txt",
+      "bytes": 2769,
+      "sha256": "be2d64f266f51eed0d472b3855311753412ad8d3b655c05767757e2bbc617e62",
+      "git_blob": "8173fc50389788fde5b792e41b25777e52d7bba2"
+    },
+    {
+      "upstream_path": "docs/themes/data/065.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/065.json.source.txt",
+      "bytes": 2447,
+      "sha256": "66c3e3474f77f3a7967b308535ccc483f8aa54a4ce8a83f62afccbcb39bb12a2",
+      "git_blob": "84b725ac2e61aed785f0641471aae2ffa95875b0"
+    },
+    {
+      "upstream_path": "docs/themes/data/066.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/066.json.source.txt",
+      "bytes": 2481,
+      "sha256": "61567ca9162b8fc3cac7fc3ae4ad9a66d68c9b8957941d6b174be8ab8fe17caf",
+      "git_blob": "14c209df5c3c9af7633af614bb9ae02d023767cc"
+    },
+    {
+      "upstream_path": "docs/themes/data/067.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/067.json.source.txt",
+      "bytes": 2788,
+      "sha256": "dbdbac244f5b8dc87feae17b1ea4daa6d7b4db756629c73d37a6a0b77bad6266",
+      "git_blob": "7332ea0c8ecf1943b3aa1d56c47636a998dcc157"
+    },
+    {
+      "upstream_path": "docs/themes/data/068.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/068.json.source.txt",
+      "bytes": 2749,
+      "sha256": "83ca3b9dbe70c92393bb3b737c8fdb4add10f128ce684c83ec3eda51e9366ad2",
+      "git_blob": "bce91044ecaff8b9277a1e33ec65c9ff01f8d0f7"
+    },
+    {
+      "upstream_path": "docs/themes/data/069.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/069.json.source.txt",
+      "bytes": 2675,
+      "sha256": "fb593ecce546dab8ff27b3fe3b30b7c9376382503905bf14febc291369fd64c6",
+      "git_blob": "b270676010c96757ce1760223fc50df3aa941d6f"
+    },
+    {
+      "upstream_path": "docs/themes/data/070.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/070.json.source.txt",
+      "bytes": 2484,
+      "sha256": "534e514fe5f5e15a31515f1af900d03d2949d2dd5bc1b5550abb66f53ead9112",
+      "git_blob": "e23d9b25dd0d998949d3d534243a30108e6e26fa"
+    },
+    {
+      "upstream_path": "docs/themes/data/071.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/071.json.source.txt",
+      "bytes": 2635,
+      "sha256": "6761ee32a523b24ee94b0d25c147793984c834bd3d69578015b4516d35fe8829",
+      "git_blob": "cca9d43e9e92f0f41e78a2daf6fe5c96110492e1"
+    },
+    {
+      "upstream_path": "docs/themes/data/072.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/072.json.source.txt",
+      "bytes": 2564,
+      "sha256": "a38cd4f0a1180f9f5b0cc751926bccc6d5c161195abbc3ddd8344ab4c6009117",
+      "git_blob": "aeb6470a3fc932d845a404c0d8de9be21697a230"
+    },
+    {
+      "upstream_path": "docs/themes/data/073.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/073.json.source.txt",
+      "bytes": 2864,
+      "sha256": "2aa15d1f1eee2f7b314247eb266b330ba21e3d06a7bdacb1fda19ff9b7e2b0d5",
+      "git_blob": "c199a8183700f8c31be38879ca188a05df5547e6"
+    },
+    {
+      "upstream_path": "docs/themes/data/074.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/074.json.source.txt",
+      "bytes": 2894,
+      "sha256": "d431fe3c6bd65ca81c7765df15fc9a2f921ea1c692ce23d6bfab251407c7d8a9",
+      "git_blob": "624c0c16ec9cec2da0746bb7df9c88179b0d0808"
+    },
+    {
+      "upstream_path": "docs/themes/data/075.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/075.json.source.txt",
+      "bytes": 3004,
+      "sha256": "180293c935e57f4e53793f41ac806951d133111cf7292365e4b352f46291ac3c",
+      "git_blob": "9ea114432776a9b851238350962e1757e594287b"
+    },
+    {
+      "upstream_path": "docs/themes/data/076.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/076.json.source.txt",
+      "bytes": 2833,
+      "sha256": "d00af44ddced79905d26ffafa6c5bd4d0b3bc2097a95686cff0070e86e73eb35",
+      "git_blob": "1585fa229e73f84c43fe1c3df3e0c53ad596de38"
+    },
+    {
+      "upstream_path": "docs/themes/data/077.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/077.json.source.txt",
+      "bytes": 2873,
+      "sha256": "b8a1fdd3e8cecb6fabd39414eb8ee23e29155de55f26e7ec0510e708728248a5",
+      "git_blob": "9a88e98ed5757d804966c44e70a2a93d6c21def2"
+    },
+    {
+      "upstream_path": "docs/themes/data/078.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/078.json.source.txt",
+      "bytes": 2942,
+      "sha256": "d27e88c8c657cfbd37afb93e68b40d3d668023a638e05d3dc58103e70b58a952",
+      "git_blob": "346af2258b2196fd2f1be7f938e30696ce308d2c"
+    },
+    {
+      "upstream_path": "docs/themes/data/079.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/079.json.source.txt",
+      "bytes": 3032,
+      "sha256": "75b8b245503d155b298e10e0990d3abf722d283a6517896a391afd635ac2c0a1",
+      "git_blob": "2760a01744f62c6785476e169e7396f65ff614b8"
+    },
+    {
+      "upstream_path": "docs/themes/data/080.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/080.json.source.txt",
+      "bytes": 2602,
+      "sha256": "c01b135fcc1776affa42e927f4cef821e29c127e69039f9ddd6c0738495ffcb3",
+      "git_blob": "f47d7fe5e657c22e22b5a3eb552e0dead595318f"
+    },
+    {
+      "upstream_path": "docs/themes/data/081.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/081.json.source.txt",
+      "bytes": 2865,
+      "sha256": "b2811475a94a00b697839df6299cc328e9ffc7840d90df2de01d37fb46b388ab",
+      "git_blob": "de57db3d1e209905f79c0d3f3dc96fbcfe3b56ba"
+    },
+    {
+      "upstream_path": "docs/themes/data/082.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/082.json.source.txt",
+      "bytes": 2764,
+      "sha256": "93830a4c9475c3f7b4bc00c80594c8706dd0fb1172aecd217aefe7ec695a6bbf",
+      "git_blob": "348d01621fd6d820229864dc13172501f3a45e7b"
+    },
+    {
+      "upstream_path": "docs/themes/data/083.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/083.json.source.txt",
+      "bytes": 2803,
+      "sha256": "b8dd4d14039effecb51b8c3aca96d8c53f3ea977c27a69a4c7b6b22c96ced9ae",
+      "git_blob": "f2469e9f659d30d475bfb52345b7bafcc5608d83"
+    },
+    {
+      "upstream_path": "docs/themes/data/084.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/084.json.source.txt",
+      "bytes": 2770,
+      "sha256": "f59390bf26561c63bbb6e0b6ab0c21679e0994c20d56f6c6dd4500b7171c71fe",
+      "git_blob": "8eea4c9f2b9d2b7ccad1b274fed67d540ec96859"
+    },
+    {
+      "upstream_path": "docs/themes/data/085.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/085.json.source.txt",
+      "bytes": 2840,
+      "sha256": "a1490fa9801d6ae98596cfaa57471b0c252e41510079e4af29149dfd2fce56e4",
+      "git_blob": "0c4e36b3383a2d5a10e745eb08f7e235b8bc53fc"
+    },
+    {
+      "upstream_path": "docs/themes/data/086.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/086.json.source.txt",
+      "bytes": 2839,
+      "sha256": "22e2daf9ab634e7fb30ccb3b01af441e8116c633aa20e55532fd729282af9a5d",
+      "git_blob": "4ac106592cbcd5f8f8bd0c49298a421e7901fd0c"
+    },
+    {
+      "upstream_path": "docs/themes/data/087.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/087.json.source.txt",
+      "bytes": 2835,
+      "sha256": "375f05d620842659f2e6b7322b4b879a2846771bf27bb92e5cd7af8045da8237",
+      "git_blob": "8c491a48102856a05137304ffdb65de5c93db8cf"
+    },
+    {
+      "upstream_path": "docs/themes/data/088.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/088.json.source.txt",
+      "bytes": 2772,
+      "sha256": "5b7fb5edef8292412596e8ce60192d4327836a8201fc23ea528120fad2930d68",
+      "git_blob": "769ed972e15cf30fe76e139d90d90b920bd7da8e"
+    },
+    {
+      "upstream_path": "docs/themes/data/089.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/089.json.source.txt",
+      "bytes": 2744,
+      "sha256": "bcb457bc06536fca76370a38e655329dbacf6e45a3ac91e0810b42a1c7ed3cd9",
+      "git_blob": "c7404c200d921870039e967fafacb212a60aab01"
+    },
+    {
+      "upstream_path": "docs/themes/data/090.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/090.json.source.txt",
+      "bytes": 2819,
+      "sha256": "f92c880f9319c8ce45e3d8613859d79638600b955c27d0ddf10f100457f398e2",
+      "git_blob": "2249e5aa1bae1822d5f3e1ae3ccf0da7347af6f0"
+    },
+    {
+      "upstream_path": "docs/themes/data/091.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/091.json.source.txt",
+      "bytes": 2994,
+      "sha256": "48910b05ca08166edc69b44917d0309e7b8344be960704f92e3afcca989c6eb9",
+      "git_blob": "0653505f22fc0f967cd03e0919c00624297ccf99"
+    },
+    {
+      "upstream_path": "docs/themes/data/092.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/092.json.source.txt",
+      "bytes": 2909,
+      "sha256": "7496822d0785e4173de4542923e9eba591338dfc0eed6a768f852e793adea16c",
+      "git_blob": "56a64a1b9cfa36e11c61cf31ec8df284ec3b3958"
+    },
+    {
+      "upstream_path": "docs/themes/data/093.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/093.json.source.txt",
+      "bytes": 3554,
+      "sha256": "ec52e8b8f99a21f78471060410aa778f05f878db48eb7b41ae30111ba3351ecf",
+      "git_blob": "1170f3db610580b7c8140c172fbdc85ff32ad544"
+    },
+    {
+      "upstream_path": "docs/themes/data/094.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/094.json.source.txt",
+      "bytes": 3159,
+      "sha256": "48dd6c05ab65eabe02b75a2d3157c09953f34398730748484b9e5cc43aea112a",
+      "git_blob": "671b15897bf26fae84455be22872616c0c4ff751"
+    },
+    {
+      "upstream_path": "docs/themes/data/095.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/095.json.source.txt",
+      "bytes": 3250,
+      "sha256": "228bd3ecc09a2db6a7be079c048734ef1daca641e20556aaa364080424520f84",
+      "git_blob": "743cc5748f3157bfbc62f43238341e4c6bf22eef"
+    },
+    {
+      "upstream_path": "docs/themes/data/096.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/096.json.source.txt",
+      "bytes": 3210,
+      "sha256": "9802516c31df4359e99c5d4d251f4f92026abf1005d7b1efaf2f2155fe052e4b",
+      "git_blob": "4dd3ecd2faf0fafc543b00c355e461f282737c5a"
+    },
+    {
+      "upstream_path": "docs/themes/data/097.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/097.json.source.txt",
+      "bytes": 3045,
+      "sha256": "f1e36b7a07e6512d6dcc9e12352022478887f02d70e213f2d24cad872805ebc6",
+      "git_blob": "8b07cf3f6099bfd24e995be0e307ee9a1c4f4d41"
+    },
+    {
+      "upstream_path": "docs/themes/data/098.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/098.json.source.txt",
+      "bytes": 3096,
+      "sha256": "a57bafefd941dc94aab888ad47a9b2cb44e1a24d84a9bf652e5ace63c09c45cd",
+      "git_blob": "078722f38895fe7ef9e079e207560c1d42e8c0ab"
+    },
+    {
+      "upstream_path": "docs/themes/data/099.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/099.json.source.txt",
+      "bytes": 3189,
+      "sha256": "6d7ffce5e11e3027f2731f77f7111d3d61d5a33d1dbcf52aaf7b5f5d270ddea1",
+      "git_blob": "3bf6ff70a566753395dcd3d9b3626ed6113cfde4"
+    },
+    {
+      "upstream_path": "docs/themes/data/100.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/100.json.source.txt",
+      "bytes": 3028,
+      "sha256": "8a9be1d0bc85c436ba6f1c34f95238a8cf1b419b284145d38a095830a7f1b024",
+      "git_blob": "539ad905769e47b0358633a4b5a3dd07ffa8a03c"
+    },
+    {
+      "upstream_path": "docs/themes/data/101.json",
+      "path": "vendor/motion-v2/saas-motion-kit/source/docs/themes/data/101.json.source.txt",
+      "bytes": 4452,
+      "sha256": "f6614ab533115b3e56cdcaba2b470a682364965a48d547231b40b8aa66ca99cf",
+      "git_blob": "ec33d283efbbf9c4c69e221494d30c604df4143a"
+    },
+    {
+      "upstream_path": "playbook/01-brief.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/playbook/01-brief.md.source.txt",
+      "bytes": 1086,
+      "sha256": "3e8744c83b41530705768b681ccd402ac7e7d746a766c89aa60a2c827ab7108a",
+      "git_blob": "67fb65e2bad37a580f5e2b6e6c561edbaea2e5d9"
+    },
+    {
+      "upstream_path": "playbook/02-components.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/playbook/02-components.md.source.txt",
+      "bytes": 918,
+      "sha256": "a0fb87c292f8dbea46dff8d2946c693b928937a907341a14d51c77a43714e6d3",
+      "git_blob": "5e9186be8db75bf69f92e091ad1827e1130c656b"
+    },
+    {
+      "upstream_path": "playbook/03-theme.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/playbook/03-theme.md.source.txt",
+      "bytes": 1171,
+      "sha256": "4936a65abaf07656b05029fd4f2c55c4e45b76e3d1b10ab240bdbdf15c956562",
+      "git_blob": "82066a1041774825460f3a24eb7856b50b85ca41"
+    },
+    {
+      "upstream_path": "playbook/04-storyboard.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/playbook/04-storyboard.md.source.txt",
+      "bytes": 1630,
+      "sha256": "1f657efef085db4a517b3d00b5378bb33f4d6e3d074c91dd7060267e5cd7b76e",
+      "git_blob": "d7d71863372790e4485ff7a4a1dbe37b255a43e8"
+    },
+    {
+      "upstream_path": "playbook/05-build.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/playbook/05-build.md.source.txt",
+      "bytes": 1579,
+      "sha256": "12f9bef6e62106d5027cfbc8b4db15d7a1a4e901b20caeffbe47e80db06dc5ee",
+      "git_blob": "487e790897cd23d80ce6a862ca950d1752399b5a"
+    },
+    {
+      "upstream_path": "playbook/06-sound.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/playbook/06-sound.md.source.txt",
+      "bytes": 944,
+      "sha256": "04c63f2a6b0278e5c8fd5570b3b5f54bee3d549110aeea8d96f697fdf6577d8c",
+      "git_blob": "1ec6ae1b2dfb79a893cab47a2a4dc2c7b34964c4"
+    },
+    {
+      "upstream_path": "playbook/07-deliver.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/playbook/07-deliver.md.source.txt",
+      "bytes": 838,
+      "sha256": "86f313e17bca73a1587b65307264c303f3712af88cc3e2c5c8cb8e53023d5c04",
+      "git_blob": "01c1b1c904a7ffb1f930d531a83ac0cbb097b4ba"
+    },
+    {
+      "upstream_path": "playbook/README.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/playbook/README.md.source.txt",
+      "bytes": 1423,
+      "sha256": "b552e347f5f9a3bdebc5c591b8a12ec98be9fbfcafc5255187b03d43ae70bf15",
+      "git_blob": "f539c629775b85b4d221ce4d0cec8d8f113a6a08"
+    },
+    {
+      "upstream_path": "templates/BRIEF.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/templates/BRIEF.md.source.txt",
+      "bytes": 881,
+      "sha256": "650c492988e84f824a91ea3aedac6a257b5e16a01fff1361b3a75a2a5026dfc2",
+      "git_blob": "dd56cdcf149f25f3aaff194fccd558ca38c7012b"
+    },
+    {
+      "upstream_path": "templates/README.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/templates/README.md.source.txt",
+      "bytes": 375,
+      "sha256": "1689102c2b8a62b708fe07ac0cd0af05a9fedaf17d5507dc164e66934950a269",
+      "git_blob": "373337be1e02582b6cdacff5ef3bdfbdcf65a3ff"
+    },
+    {
+      "upstream_path": "templates/REFERENCES.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/templates/REFERENCES.md.source.txt",
+      "bytes": 670,
+      "sha256": "1bc08f83cd1bd62c9abab604290c7a1804db32bd85ba03ebd44abb02f6713e70",
+      "git_blob": "8d4111ab71d23eced18386358dfc071eb9db6eee"
+    },
+    {
+      "upstream_path": "templates/STORYBOARD.md",
+      "path": "vendor/motion-v2/saas-motion-kit/source/templates/STORYBOARD.md.source.txt",
+      "bytes": 2524,
+      "sha256": "52d2012e99da96d5205e21be660ca5e7293e6ea7f78e9ec6a75fdf7808ebdbff",
+      "git_blob": "0e2a2a5e4a43b3dd18f9bfb8f938310b5b53b987"
+    }
+  ]
+}
